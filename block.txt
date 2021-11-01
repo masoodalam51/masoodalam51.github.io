@@ -1,0 +1,4 @@
+#  Title: Personal Blocking Lists   
+#  Syntax: dbl       
+#  Maintainer: masoodalam51
+#  Homepage: https://masoodalam51.github.io/block.txt
