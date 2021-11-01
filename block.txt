@@ -2,3 +2,20 @@
 #  Syntax: dbl       
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/block.txt
+
+# Brave
+laptop-updates.brave.com
+go-updater.brave.com
+variations.brave.com
+p3a.brave.com
+brave-core-ext.s3.brave.com
+
+# MX Player
+i.mxplayer.j2inter.com
+mxvp-feature-toggle-prod-1.zenmxapps.com
+evt.mxplay.com
+
+#MiUi
+tracking.miui.com
+i2.api.io.mi.com
+sdkconfig.ad.xiaomi.com
