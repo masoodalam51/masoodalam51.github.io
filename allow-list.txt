@@ -2,6 +2,7 @@
 #  Syntax: dbl       
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/allow-list.txt
+
 affiliate.kinsta.com
 affiliate.rocket.net
 app.promorepublic.com
