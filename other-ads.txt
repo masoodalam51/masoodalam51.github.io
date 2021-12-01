@@ -1,0 +1,22 @@
+#  Title: Personal Blocking Lists   
+#  Syntax: dbl       
+#  Maintainer: masoodalam51
+#  Homepage: https://masoodalam51.github.io/other-ads.txt
+
+u3-in.teddymobile.cn
+u3-in.teddymobile.cn
+pushaction.foxpush.com
+publisher.foxpush.com
+pushaction.foxpush.com
+publisher.foxpush.com
+www.foxpush.com
+ads.api.vungle.com
+adunit.datawrkz.com
+img.wallpapersafari.com
+t.appsflyer.com
+bstream.kzhi.tech
+eu1-spiky.wzrkt.com
+wzrkt.com
+cdn.pushmart.net
+110n-num-in.connectingmobile.com
+gdl.news-cdn.site

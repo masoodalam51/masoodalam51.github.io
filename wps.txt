@@ -1,0 +1,21 @@
+#  Title: Personal Blocking Lists   
+#  Syntax: dbl       
+#  Maintainer: masoodalam51
+#  Homepage: https://masoodalam51.github.io/wps.txt
+
+plugin-server.wps.com
+cloud.wpscdn.com
+imoconfpull2.azureedge.net
+https-api.bigolive.tv
+bglvconfpull2.azureedge.net
+plugin-server.wps.com
+cloud.wpscdn.com
+abroad-ad.kingsoft-office-service.com
+novel-recommend.wps.com
+cloudservice24.kingsoft-office-service.com
+movip.wps.com
+service-api.kingsoft-office-service.com
+store.wps.com
+account.wps.com
+params.wps.com
+cloudservice14.kingsoft-office-service.com

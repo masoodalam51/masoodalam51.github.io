@@ -1,0 +1,44 @@
+#  Title: Personal Blocking Lists   
+#  Syntax: dbl       
+#  Maintainer: masoodalam51
+#  Homepage: https://masoodalam51.github.io/imo.txt
+
+lbs.imolive2.com
+api.imotech.tech
+conf.piojm.tech
+socks.imolive2.com
+config.imoim.app
+api16-access-sg.pangle.io
+gdl.masala.sh
+sgp.imo.im
+bstream.kzhi.tech
+feed.chimukappa.com
+lbs.imolive2.com
+imoconfpull1.azureedge.net
+config.imoim.app
+gdl.masala.sh
+sgp.imo.im
+medialbs.imolive2.com
+socks.live.bigo.sg
+fgw.imoim.app
+imoconf1.azureedge.net
+socks.imolive2.com
+sf-tb-sg.ibytedtos.com
+static-web.likeevideo.com
+dm16-alisg.byteoversea.com
+socks.live.bigo.sg
+fgw.imoim.app
+medialbs.imolive2.com
+https-api.bigolive.tv
+bglvconfpull1.azureedge.net
+imoconfpull1.azureedge.net
+imoconf3.azureedge.net
+bglvconf3.azureedge.net
+bglvconfpull2.azureedge.net
+api.imotech.tech
+lbs.imolive.xyz
+gdl.singbox.sg
+imoconf1.azureedge.net
+gdl.news-img.tech
+api.liketech.tech
+mraid.bigo.sg
