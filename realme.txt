@@ -94,3 +94,9 @@ api.publicvibe.com
 proxyf.apps.oppomobile.com
 img.connectingmobile.com
 api-in.cdo.heytapmobile.com
+i6-in.weather.oppomobile.com
+realme-oem.avira-update.com
+obus-in.dc.heytapmobile.com
+appconf.heytapdownload.com
+icota-eu.coloros.com
+obus-dc20123-in.heytapmobile.com
