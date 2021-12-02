@@ -22,3 +22,4 @@ cdn.pushmart.net
 gdl.news-cdn.site
 phone.sports.tile.appex.bing.com
 ||shopee.in^$important
+||shopeemobile.com^important
