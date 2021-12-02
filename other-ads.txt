@@ -21,3 +21,4 @@ cdn.pushmart.net
 110n-num-in.connectingmobile.com
 gdl.news-cdn.site
 phone.sports.tile.appex.bing.com
+||shopee.in^$important
