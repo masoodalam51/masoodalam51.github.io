@@ -15,3 +15,9 @@ wise.com
 www.shareasale.com
 1337x.to
 graph.facebook.com
+
+# Wild Card
+
+@@||1337x.to^$important
+@@||hcaptcha.com^$important
+@@||github.io^$important
