@@ -10,7 +10,6 @@ bloggyaani.com
 geekyvision.com
 kinsta.com
 search.google.com
-static.tapfiliate.com
 wise.com
 www.shareasale.com
 1337x.to
@@ -21,3 +20,4 @@ graph.facebook.com
 @@||1337x.to^$important
 @@||hcaptcha.com^$important
 @@||github.io^$important
+@@||tapfiliate.com^$important
