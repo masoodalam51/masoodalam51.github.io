@@ -21,5 +21,7 @@ cdn.pushmart.net
 110n-num-in.connectingmobile.com
 gdl.news-cdn.site
 phone.sports.tile.appex.bing.com
+110-n.in.teddymobile.cn
+ctldl.windowsupdate.com
 ||shopee.in^$important
 ||shopeemobile.com^important
