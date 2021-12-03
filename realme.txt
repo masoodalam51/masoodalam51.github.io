@@ -1,4 +1,4 @@
-#  Title: Personal Blocking Lists   
+#  Title: Realme Mobile Ads Blocking Lists   
 #  Syntax: dbl       
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/realme.txt
@@ -100,6 +100,9 @@ obus-in.dc.heytapmobile.com
 appconf.heytapdownload.com
 icota-eu.coloros.com
 obus-dc20123-in.heytapmobile.com
+i-in01a-ocloud.heytapmobile.com
+
+# WildCard
 ||heytapmobile.com^important
 ||oppomobile.com^important
 ||realmemobile.com^important
