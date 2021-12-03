@@ -23,6 +23,7 @@ gdl.news-cdn.site
 phone.sports.tile.appex.bing.com
 110-n.in.teddymobile.cn
 ctldl.windowsupdate.com
+i-38.b-46096.ut.bench.utorrent.com
 ||shopee.in^$important
 ||shopeemobile.com^important
 ||=^$important
