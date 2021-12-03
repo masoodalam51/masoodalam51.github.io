@@ -100,3 +100,15 @@ obus-in.dc.heytapmobile.com
 appconf.heytapdownload.com
 icota-eu.coloros.com
 obus-dc20123-in.heytapmobile.com
+||heytapmobile.com^important
+||oppomobile.com^important
+||realmemobile.com^important
+||heytapdownload.com^important
+||coloros.com^important
+||nearme.com.cn^important
+||heytapdl.com^important
+||allawnos.com^important
+||publicvibe.com^important
+||heytapimg.com^important
+||heytapmobi.com^important
+||heytapimg.com^important
