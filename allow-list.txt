@@ -21,4 +21,4 @@ graph.facebook.com
 @@||hcaptcha.com^$important
 @@||github.io^$important
 @@||tapfiliate.com^$important
-@@||s.w.org^$important
+@@||w.org^$important
