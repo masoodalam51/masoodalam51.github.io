@@ -1,3 +1,7 @@
+#  Maintainer: masoodalam51
+#  Homepage: https://masoodalam51.github.io/trackers.txt
+
+
 https://hosts.oisd.nl/
 
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
