@@ -25,3 +25,4 @@ phone.sports.tile.appex.bing.com
 ctldl.windowsupdate.com
 ||shopee.in^$important
 ||shopeemobile.com^important
+||=^$important
