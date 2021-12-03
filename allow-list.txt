@@ -16,7 +16,9 @@ www.shareasale.com
 graph.facebook.com
 c.ndtvimg.com
 cdn.ndtv.com
-
+wordpress.org
+w.org
+s.w.org
 
 # Wild Card
 
