@@ -14,6 +14,7 @@ brave-core-ext.s3.brave.com
 i.mxplayer.j2inter.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 evt.mxplay.com
+=
 
 #MiUi
 tracking.miui.com
