@@ -15,6 +15,7 @@ www.shareasale.com
 1337x.to
 graph.facebook.com
 c.ndtvimg.com
+cdn.ndtv.com
 
 
 # Wild Card
