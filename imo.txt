@@ -42,3 +42,4 @@ imoconf1.azureedge.net
 gdl.news-img.tech
 api.liketech.tech
 mraid.bigo.sg
+bglvconf1.azureedge.net
