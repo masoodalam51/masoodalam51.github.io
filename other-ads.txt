@@ -23,7 +23,17 @@ gdl.news-cdn.site
 phone.sports.tile.appex.bing.com
 110-n.in.teddymobile.cn
 ctldl.windowsupdate.com
+
+# Torrent Tracker
 i-38.b-46096.ut.bench.utorrent.com
+_bittorrent-tracker._tcp.com
+_bittorrent-tracker._tcp.dvois.com
+_bittorrent-tracker._tcp.250.dvois.com
+_bittorrent-tracker._tcp.198.250.dvois.com
+_bittorrent-tracker._tcp.48.198.250.dvois.com
+_bittorrent-tracker._tcp.182.48.198.250.dvois.com
+
+# Wildcard
 ||shopee.in^$important
 ||shopeemobile.com^important
 ||=^$important
