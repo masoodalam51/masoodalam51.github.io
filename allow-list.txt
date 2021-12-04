@@ -22,6 +22,7 @@ s.w.org
 i.ibb.co
 css.gbtcdn.com
 preview.redd.it
+abs.twimg.com
 
 
 # Wild Card
