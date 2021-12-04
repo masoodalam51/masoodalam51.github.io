@@ -21,9 +21,10 @@ w.org
 s.w.org
 i.ibb.co
 css.gbtcdn.com
+preview.redd.it
+
 
 # Wild Card
-
 @@||1337x.to^$important
 @@||hcaptcha.com^$important
 @@||github.io^$important
