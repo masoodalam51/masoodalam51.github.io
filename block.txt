@@ -23,6 +23,15 @@ sdkconfig.ad.xiaomi.com
 idmb.app.chat.global.xiaomi.net
 idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
 global.market.xiaomi.com
+connect.intl.rom.miui.com
+t14.market.mi-img.com
+au.ff.avast.sec.miui.com
+pi.ias.xiaomi.com
+au.ff.avast.sec.miui.com
+api.calendar.intl.miui.com
+newsfeed.api.intl.miui.com
+api.account.xiaomi.com
+log.avlyun.sec.intl.miui.com
 idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
