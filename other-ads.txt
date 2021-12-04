@@ -35,6 +35,6 @@ _bittorrent-tracker._tcp.48.198.250.dvois.com
 _bittorrent-tracker._tcp.182.48.198.250.dvois.com
 
 # Wildcard
-||shopee.in^$important
-||shopeemobile.com^important
-||=^$important
+||shopee.in^
+||shopeemobile.com^
+||=^
