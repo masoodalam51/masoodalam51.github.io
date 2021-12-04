@@ -19,6 +19,7 @@ cdn.ndtv.com
 wordpress.org
 w.org
 s.w.org
+i.ibb.co
 
 # Wild Card
 
