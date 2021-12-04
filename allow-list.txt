@@ -27,3 +27,6 @@ s.w.org
 @@||github.io^$important
 @@||tapfiliate.com^$important
 @@||w.org^$important
+@@||bloggyaani.com^$important
+@@||geekyvision.com^$important
+@@||techelex.com^$important
