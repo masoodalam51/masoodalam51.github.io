@@ -33,6 +33,8 @@ _bittorrent-tracker._tcp.250.dvois.com
 _bittorrent-tracker._tcp.198.250.dvois.com
 _bittorrent-tracker._tcp.48.198.250.dvois.com
 _bittorrent-tracker._tcp.182.48.198.250.dvois.com
+I-64.b-46096.ut.bench.utorrent.com
+
 
 # Wildcard
 ||shopee.in^
