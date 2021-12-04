@@ -30,3 +30,4 @@ s.w.org
 @@||bloggyaani.com^$important
 @@||geekyvision.com^$important
 @@||techelex.com^$important
+@@||static-assets-web.flixcart.com^$important
