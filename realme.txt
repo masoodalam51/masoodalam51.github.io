@@ -61,6 +61,7 @@ api-gl.cdo.heytapmobi.com
 log-eap-in.coloros.com
 api-in.store.heytapmobi.com
 conn1.oppomobile.com
+110-dot-in.teddymobile.cn
 moa-upload-in.allawnos.com
 client-uc.heytapmobi.com
 conn4.coloros.com
