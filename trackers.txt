@@ -14,7 +14,7 @@ https://blokada.org/mirror/v5/stevenblack/unified/hosts.txt
   
 https://blokada.org/mirror/v5/goodbyeads/youtube/hosts.txt
   
-https://blokada.org/mirror/v5/adaway/standard/hosts.txt
+https://blokada.org/mirror/v5/goodbyeads/standard/hosts.txt
 
 https://blokada.org/mirror/v5/goodbyeads/xiaomi/hosts.txt
 
@@ -50,8 +50,8 @@ https://masoodalam51.github.io/wps.txt
 
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
   
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
-  
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
   
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
