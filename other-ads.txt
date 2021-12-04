@@ -24,6 +24,7 @@ phone.sports.tile.appex.bing.com
 110-n.in.teddymobile.cn
 ctldl.windowsupdate.com
 adconfig.wynk.in
+hurypswrkjd.top
 
 # Torrent Tracker
 i-38.b-46096.ut.bench.utorrent.com
@@ -41,3 +42,4 @@ video.trontv.com
 ||shopee.in^
 ||shopeemobile.com^
 ||=^
+||hurypswrkjd.top^
