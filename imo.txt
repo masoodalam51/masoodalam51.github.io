@@ -43,3 +43,5 @@ gdl.news-img.tech
 api.liketech.tech
 mraid.bigo.sg
 bglvconf1.azureedge.net
+lbs.imolive.xyz
+sf19-fe-tos-sg.i18n-pglstatp.com
