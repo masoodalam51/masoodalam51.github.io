@@ -101,6 +101,8 @@ appconf.heytapdownload.com
 icota-eu.coloros.com
 obus-dc20123-in.heytapmobile.com
 i-in01a-ocloud.heytapmobile.com
+smartcardf.apps.coloros.com
+
 
 # WildCard
 ||heytapmobile.com^important
