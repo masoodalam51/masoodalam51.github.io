@@ -105,15 +105,14 @@ smartcardf.apps.coloros.com
 
 
 # WildCard
-||heytapmobile.com^important
-||oppomobile.com^important
-||realmemobile.com^important
-||heytapdownload.com^important
-||coloros.com^important
-||nearme.com.cn^important
-||heytapdl.com^important
-||allawnos.com^important
-||publicvibe.com^important
-||heytapimg.com^important
-||heytapmobi.com^important
-||heytapimg.com^important
+||heytapmobile.com^
+||oppomobile.com^
+||realmemobile.com^
+||heytapdownload.com^
+||coloros.com^
+||nearme.com.cn^
+||heytapdl.com^
+||allawnos.com^
+||publicvibe.com^
+||heytapimg.com^
+||heytapmobi.com^
