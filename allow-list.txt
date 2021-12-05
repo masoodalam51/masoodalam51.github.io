@@ -22,6 +22,7 @@ s.w.org
 i.ibb.co
 css.gbtcdn.com
 preview.redd.it
+pbs.twimg.com
 abs.twimg.com
 
 
@@ -36,4 +37,4 @@ abs.twimg.com
 @@||techelex.com^$important
 @@||static-assets-web.flixcart.com^$important
 @@||css.gbtcdn.com
-^$important
+@@||twimg.com^$important
