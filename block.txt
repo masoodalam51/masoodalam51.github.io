@@ -40,6 +40,9 @@ weatherapi.intl.xiaomi.com
 idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
 file.market.xiaomi.com
 idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
+
+in-fcm.sms.intl.xiaomi.com
 
 
 # Big G
