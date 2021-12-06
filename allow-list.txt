@@ -24,7 +24,7 @@ css.gbtcdn.com
 preview.redd.it
 pbs.twimg.com
 abs.twimg.com
-
+shareasale.com
 
 # Wild Card
 @@||1337x.to^$important
@@ -38,3 +38,4 @@ abs.twimg.com
 @@||static-assets-web.flixcart.com^$important
 @@||css.gbtcdn.com
 @@||twimg.com^$important
+@@||shareasale.com^important
