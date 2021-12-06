@@ -26,6 +26,7 @@ pbs.twimg.com
 abs.twimg.com
 shareasale.com
 fonts.gstatic.com
+account.shareasale.com
 
 # Wild Card
 @@||1337x.to^$important
@@ -41,3 +42,4 @@ fonts.gstatic.com
 @@||twimg.com^$important
 @@||shareasale.com^important
 @@||fonts.gstatic.com^important
+@@||account.shareasale.com^important
