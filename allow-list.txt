@@ -25,6 +25,7 @@ preview.redd.it
 pbs.twimg.com
 abs.twimg.com
 shareasale.com
+fonts.gstatic.com
 
 # Wild Card
 @@||1337x.to^$important
@@ -39,3 +40,4 @@ shareasale.com
 @@||css.gbtcdn.com
 @@||twimg.com^$important
 @@||shareasale.com^important
+@@||fonts.gstatic.com^important
