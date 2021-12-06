@@ -27,6 +27,7 @@ abs.twimg.com
 shareasale.com
 fonts.gstatic.com
 account.shareasale.com
+longtailpro.postaffiliatepro.com
 
 # Wild Card
 @@||1337x.to^$important
@@ -43,3 +44,4 @@ account.shareasale.com
 @@||shareasale.com^important
 @@||fonts.gstatic.com^important
 @@||account.shareasale.com^important
+@@||postaffiliatepro.com^important
