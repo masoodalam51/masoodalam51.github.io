@@ -45,3 +45,4 @@ longtailpro.postaffiliatepro.com
 @@||fonts.gstatic.com^important
 @@||account.shareasale.com^important
 @@||postaffiliatepro.com^important
+@@||yt3.ggpht.com^$important
