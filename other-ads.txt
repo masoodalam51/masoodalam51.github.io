@@ -27,6 +27,7 @@ adconfig.wynk.in
 hurypswrkjd.top
 lfghub-anonymous.xboxlive.com
 www.xboxab.com
+slscr.update.microsoft.com
 onlineimp.roockmobile.com
 
 # Torrent Tracker
