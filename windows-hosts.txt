@@ -14,6 +14,11 @@
 0.0.0.0 p3a.brave.com
 0.0.0.0 brave-core-ext.s3.brave.com
 
+
+# Big G
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+
 ### Torrent Tracker
 0.0.0.0 i-38.b-46096.ut.bench.utorrent.com
 0.0.0.0 _bittorrent-tracker._tcp.com
