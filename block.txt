@@ -48,6 +48,9 @@ i.mi.com
 in-fcm.sms.intl.xiaomi.com
 metok.intl.xiaomi.com
 account.xiaomi.com
+thm.market.intl.xiaomi.com
+api.zhuti.intl.xiaomi.com
+
 
 # Big G
 googleads.g.doubleclick.net
