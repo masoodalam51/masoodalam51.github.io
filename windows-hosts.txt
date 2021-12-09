@@ -1,11 +1,18 @@
-###  Title: Masood Windows Hosts Personal Blocking Lists   
+###  Title: Masood Windows Hosts Personal Blocking List
 ###  Maintainer: masoodalam51
 ###  Homepage: https://masoodalam51.github.io/windows-hosts.txt.txt
 
 
-###  Windows Hosts Personal Blocking Lists
+###  Windows Hosts Personal Blocking List
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 www.xboxab.com
+
+### Brave Browser Blocking List
+0.0.0.0 laptop-updates.brave.com
+0.0.0.0 go-updater.brave.com
+0.0.0.0 variations.brave.com
+0.0.0.0 p3a.brave.com
+0.0.0.0 brave-core-ext.s3.brave.com
 
 ### Torrent Tracker
 0.0.0.0 i-38.b-46096.ut.bench.utorrent.com
