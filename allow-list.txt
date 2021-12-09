@@ -35,6 +35,7 @@ csi.gstatic.com
 cdn.mos.cms.futurecdn.net
 futurecdn.net
 vanilla.futurecdn.net
+cdn-production-opera-website.operacdn.com
 
 
 # Wild Card
@@ -58,3 +59,4 @@ vanilla.futurecdn.net
 @@||gvt2.com^$important
 @@||csi.gstatic.com^$important
 @@||futurecdn.net^important
+@@||cdn-production-opera-website.operacdn.com^important
