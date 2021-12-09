@@ -32,6 +32,7 @@ filestore.community.support.microsoft.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 wcpstatic.microsoft.com
 mem.gfx.ms
+arc.msn.com
 onlineimp.roockmobile.com
 
 # Torrent Tracker
