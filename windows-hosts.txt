@@ -1,0 +1,25 @@
+###  Title: Masood Windows Hosts Personal Blocking Lists   
+###  Maintainer: masoodalam51
+###  Homepage: https://masoodalam51.github.io/windows-hosts.txt.txt
+
+
+###  Windows Hosts Personal Blocking Lists
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 www.xboxab.com
+
+### Torrent Tracker
+0.0.0.0 i-38.b-46096.ut.bench.utorrent.com
+0.0.0.0 _bittorrent-tracker._tcp.com
+0.0.0.0 _bittorrent-tracker._tcp.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.250.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.198.250.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.48.198.250.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.182.48.198.250.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.13.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.197.13.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.48.197.13.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.182.48.197.13.dvois.com
+0.0.0.0 I-64.b-46096.ut.bench.utorrent.com
+0.0.0.0 video.trontv.com
+0.0.0.0 i-5600.b-1957.helper.bench.utorrent.com
+0.0.0.0 i-64.b-46096.ut.bench.utorrent.com
