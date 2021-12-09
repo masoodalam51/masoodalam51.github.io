@@ -7,6 +7,10 @@
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 www.xboxab.com
 0.0.0.0 slscr.update.microsoft.com
+0.0.0.0 filestore.community.support.microsoft.com
+0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
+0.0.0.0 wcpstatic.microsoft.com
+0.0.0.0 mem.gfx.ms
 
 ### Brave Browser Blocking List
 0.0.0.0 laptop-updates.brave.com
