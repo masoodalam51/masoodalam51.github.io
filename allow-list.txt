@@ -36,7 +36,7 @@ cdn.mos.cms.futurecdn.net
 futurecdn.net
 vanilla.futurecdn.net
 cdn-production-opera-website.operacdn.com
-
+sc.sftcdn.net
 
 # Wild Card
 @@||1337x.to^$important
@@ -60,3 +60,4 @@ cdn-production-opera-website.operacdn.com
 @@||csi.gstatic.com^$important
 @@||futurecdn.net^important
 @@||cdn-production-opera-website.operacdn.com^important
+@@||sc.sftcdn.net^important
