@@ -11,6 +11,7 @@
 0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
 0.0.0.0 wcpstatic.microsoft.com
 0.0.0.0 mem.gfx.ms
+0.0.0.0 arc.msn.com
 
 ### Brave Browser Blocking List
 0.0.0.0 laptop-updates.brave.com
