@@ -74,6 +74,8 @@ https://blokada.org/mirror/v5/adaway/standard/hosts.txt
 PiHole Porn Black Lists
 https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
 
+AdGaurd DNS Filter
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 ## Allow Lists URL
 ## https://masoodalam51.github.io/allow-list.txt
