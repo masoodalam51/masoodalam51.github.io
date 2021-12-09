@@ -28,6 +28,10 @@ shareasale.com
 fonts.gstatic.com
 account.shareasale.com
 longtailpro.postaffiliatepro.com
+pressablecdn.com
+clients6.google.com
+gvt2.com
+csi.gstatic.com
 
 # Wild Card
 @@||1337x.to^$important
@@ -46,3 +50,6 @@ longtailpro.postaffiliatepro.com
 @@||account.shareasale.com^important
 @@||postaffiliatepro.com^important
 @@||yt3.ggpht.com^$important
+@@||clients*.google.com^$important
+@@||gvt2.com^$important
+@@||csi.gstatic.com^$important
