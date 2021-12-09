@@ -2,64 +2,78 @@
 #  Homepage: https://masoodalam51.github.io/trackers.txt
 
 
-https://hosts.oisd.nl/
-
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
-
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-
-https://blokada.org/mirror/v5/oisd/extra%20(wildcards)/hosts.txt
-
-https://blokada.org/mirror/v5/stevenblack/unified/hosts.txt
-  
-https://blokada.org/mirror/v5/goodbyeads/youtube/hosts.txt
-  
-https://blokada.org/mirror/v5/goodbyeads/standard/hosts.txt
-
-https://blokada.org/mirror/v5/goodbyeads/xiaomi/hosts.txt
-
-https://blokada.org/mirror/v5/phishingarmy/extended/hosts.txt
-  
-https://blokada.org/mirror/v5/adaway/standard/hosts.txt
-  
-https://blokada.org/mirror/v5/ddgtrackerradar/standard/hosts.txt
-  
-https://blokada.org/mirror/v5/blacklist/adservers/hosts.txt
-
-https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
-
-https://blokada.org/mirror/v5/developerdan/ads/hosts.txt
-
-https://blokada.org/mirror/v5/developerdan/amp/hosts.txt
-
-https://blokada.org/mirror/v5/spam404/standard/hosts.txt
-
-https://blokada.org/mirror/v5/urlhaus/standard/hosts.txt
-
-https://blokada.org/mirror/v5/danpollock/standard/hosts.txt
-
+Masood Block List
 https://masoodalam51.github.io/block.txt
-  
+
+Masood IMO
 https://masoodalam51.github.io/imo.txt
-  
+
+Masood Others Ads
 https://masoodalam51.github.io/other-ads.txt
-  
+
+Masood Realme
 https://masoodalam51.github.io/realme.txt
-  
+
+Masood WPS Office
 https://masoodalam51.github.io/wps.txt
 
+uBlock Origin uAssessts
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
-  
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 
+uBlock filters – Unbreak
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
-  
+
+uBlock filters – Privacy
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 
-https://easylist.to/easylist/easylist.txt
+uBlock filters – Resource abuse
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 
-https://easylist.to/easylist/easyprivacy.txt
+Peter Lowe's List
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 
+WindowsSpyBlocker - Hosts spy rules
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+Oisd Extra WildCard
+https://blokada.org/mirror/v5/oisd/extra%20(wildcards)/hosts.txt
+
+StevenBlack Hosts Blocking
+https://blokada.org/mirror/v5/stevenblack/unified/hosts.txt
+
+GoodbyeAds Xiaomi Adblock Extension
+https://blokada.org/mirror/v5/goodbyeads/xiaomi/hosts.txt
+
+Phishing Army
+https://blokada.org/mirror/v5/phishingarmy/extended/hosts.txt
+
+DDG Tracker Radar
+https://blokada.org/mirror/v5/ddgtrackerradar/standard/hosts.txt
+
+Anudeep's Adserver Blacklist
+https://blokada.org/mirror/v5/blacklist/adservers/hosts.txt
+
+Exodus Privacy
+https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
+
+Developer Dan Ads
+https://blokada.org/mirror/v5/developerdan/ads/hosts.txt
+
+Spam404
+https://blokada.org/mirror/v5/spam404/standard/hosts.txt
+
+URL Haus - Malicious Hosts Blocklist
+https://blokada.org/mirror/v5/urlhaus/standard/hosts.txt
+
+Dan Pollock
+https://blokada.org/mirror/v5/danpollock/standard/hosts.txt
+
+AdAway Default Blocklist
+https://blokada.org/mirror/v5/adaway/standard/hosts.txt
+
+PiHole Porn Black Lists
 https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+
+
 
 ## https://masoodalam51.github.io/allow-list.txt
