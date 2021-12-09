@@ -77,5 +77,9 @@ https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi
 AdGaurd DNS Filter
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
+Masood Windows Hosts Personal Blocking List (Only for Windows)
+https://masoodalam51.github.io/windows-hosts.txt
+
+
 ## Allow Lists URL
 ## https://masoodalam51.github.io/allow-list.txt
