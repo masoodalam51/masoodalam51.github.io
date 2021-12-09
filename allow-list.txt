@@ -33,7 +33,7 @@ clients6.google.com
 gvt2.com
 csi.gstatic.com
 cdn.mos.cms.futurecdn.net
-
+futurecdn.net
 
 # Wild Card
 @@||1337x.to^$important
@@ -55,4 +55,4 @@ cdn.mos.cms.futurecdn.net
 @@||clients*.google.com^$important
 @@||gvt2.com^$important
 @@||csi.gstatic.com^$important
-@@||cdn.mos.cms.futurecdn.net^important
+@@||futurecdn.net^important
