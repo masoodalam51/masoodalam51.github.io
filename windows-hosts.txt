@@ -6,6 +6,7 @@
 ###  Windows Hosts Personal Blocking List
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 www.xboxab.com
+0.0.0.0 slscr.update.microsoft.com
 
 ### Brave Browser Blocking List
 0.0.0.0 laptop-updates.brave.com
