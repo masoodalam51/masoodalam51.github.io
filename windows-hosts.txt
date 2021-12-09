@@ -1,6 +1,6 @@
 ###  Title: Masood Windows Hosts Personal Blocking List
 ###  Maintainer: masoodalam51
-###  Homepage: https://masoodalam51.github.io/windows-hosts.txt.txt
+###  Homepage: https://masoodalam51.github.io/windows-hosts.txt
 
 
 ###  Windows Hosts Personal Blocking List
