@@ -44,6 +44,8 @@ _bittorrent-tracker._tcp.182.48.197.13.dvois.com
 I-64.b-46096.ut.bench.utorrent.com
 video.trontv.com
 i-5600.b-1957.helper.bench.utorrent.com
+i-64.b-46096.ut.bench.utorrent.com
+
 
 # Wildcard
 ||shopee.in^
