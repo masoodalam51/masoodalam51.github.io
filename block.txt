@@ -52,7 +52,10 @@ thm.market.intl.xiaomi.com
 api.zhuti.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.india.xiaomi.com
- 
+api.ad.intl.xiaomi.com
+global.api.huangye.miui.com
+resolver.msg.global.xiaomi.net
+
 
 # Big G
 googleads.g.doubleclick.net
