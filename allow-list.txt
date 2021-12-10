@@ -39,6 +39,9 @@ cdn-production-opera-website.operacdn.com
 sc.sftcdn.net
 images.sftcdn.net
 static-exp1.licdn.com
+i01.appmifile.com
+i02.appmifile.com
+s01.appmifile.com
 
 # Wild Card
 @@||1337x.to^$important
