@@ -50,7 +50,9 @@ metok.intl.xiaomi.com
 account.xiaomi.com
 thm.market.intl.xiaomi.com
 api.zhuti.intl.xiaomi.com
-
+sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.india.xiaomi.com
+ 
 
 # Big G
 googleads.g.doubleclick.net
