@@ -21,3 +21,4 @@ params.wps.com
 cloudservice14.kingsoft-office-service.com
 wpsmail.net
 apph.wpsmail.net
+collect.wpsmail.net
