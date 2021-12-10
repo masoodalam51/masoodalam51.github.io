@@ -55,7 +55,7 @@ sdkconfig.ad.india.xiaomi.com
 api.ad.intl.xiaomi.com
 global.api.huangye.miui.com
 resolver.msg.global.xiaomi.net
-
+api.ad.intl.xiaomi.com
 
 # Big G
 googleads.g.doubleclick.net
