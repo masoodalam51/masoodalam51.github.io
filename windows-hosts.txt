@@ -12,6 +12,7 @@
 0.0.0.0 wcpstatic.microsoft.com
 0.0.0.0 mem.gfx.ms
 0.0.0.0 arc.msn.com
+0.0.0.0 v10.events.data.microsoft.com
 
 ### Brave Browser Blocking List
 0.0.0.0 laptop-updates.brave.com
