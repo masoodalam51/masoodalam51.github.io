@@ -15,6 +15,10 @@ i.mxplayer.j2inter.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 evt.mxplay.com
 =
+j2apps.s.llnwi.net
+androidc.mxplay.com
+androidapi.mxplay.com
+
 
 #MiUi
 tracking.miui.com
