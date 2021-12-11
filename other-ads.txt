@@ -46,7 +46,19 @@ _bittorrent-tracker._tcp.182.48.197.13.dvois.com
 I-64.b-46096.ut.bench.utorrent.com
 video.trontv.com
 i-5600.b-1957.helper.bench.utorrent.com
-i-64.b-46096.ut.bench.utorrent.com
+i-32.b-46096.ut.bench.utorrent.com
+i-139.b-46096.ut.bench.utorrent.com
+utclient.utorrent.com
+i-29.b-46096.ut.bench.utorrent.com
+update.utorrent.com
+btinstall-artifacts.bittorrent.com
+cdn.ap.bittorrent.com
+i-43.b-46096.ut.bench.utorrent.com
+i-20.b-46096.ut.bench.utorrent.com
+i-30.b-46096.ut.bench.utorrent.com
+apps.bittorrent.com
+router.utorrent.com
+router.bittorrent.com
 
 
 # Wildcard
