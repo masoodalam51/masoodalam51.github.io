@@ -41,4 +41,16 @@
 0.0.0.0 I-64.b-46096.ut.bench.utorrent.com
 0.0.0.0 video.trontv.com
 0.0.0.0 i-5600.b-1957.helper.bench.utorrent.com
-0.0.0.0 i-64.b-46096.ut.bench.utorrent.com
+0.0.0.0 i-32.b-46096.ut.bench.utorrent.com
+0.0.0.0 i-139.b-46096.ut.bench.utorrent.com
+0.0.0.0 utclient.utorrent.com
+0.0.0.0 i-29.b-46096.ut.bench.utorrent.com
+0.0.0.0 update.utorrent.com
+0.0.0.0 btinstall-artifacts.bittorrent.com
+0.0.0.0 cdn.ap.bittorrent.com
+0.0.0.0 i-43.b-46096.ut.bench.utorrent.com
+0.0.0.0 i-20.b-46096.ut.bench.utorrent.com
+0.0.0.0 i-30.b-46096.ut.bench.utorrent.com
+0.0.0.0 apps.bittorrent.com
+0.0.0.0 router.utorrent.com
+0.0.0.0 router.bittorrent.com
