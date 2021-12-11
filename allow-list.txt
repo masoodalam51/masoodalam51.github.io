@@ -42,6 +42,7 @@ static-exp1.licdn.com
 i01.appmifile.com
 i02.appmifile.com
 s01.appmifile.com
+a.fsdn.com
 
 # Wild Card
 @@||1337x.to^$important
@@ -66,3 +67,4 @@ s01.appmifile.com
 @@||futurecdn.net^important
 @@||cdn-production-opera-website.operacdn.com^important
 @@||static-exp1.licdn.com^$important
+@@||a.fsdn.com^$important
