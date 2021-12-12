@@ -25,3 +25,4 @@ collect.wpsmail.net
 uid.ksosoft.com
 event.ksosoft.com
 dw-online.ksosoft.com
+event.wps.com
