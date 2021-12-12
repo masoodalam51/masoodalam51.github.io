@@ -63,6 +63,12 @@ apps.bittorrent.com
 router.utorrent.com
 router.bittorrent.com
 
+# Redirector
+vemgreild.com
+chooxaur.com
+
+
+
 
 # Wildcard
 ||shopee.in^
