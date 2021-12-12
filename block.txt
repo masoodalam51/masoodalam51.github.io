@@ -64,6 +64,7 @@ authbe.sec.intl.miui.com
 tracking.india.miui.com
 data.mistat.intl.xiaomi.com
 api.ad.intl.xiaomi.com
+idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
 
 # Big G
 googleads.g.doubleclick.net
