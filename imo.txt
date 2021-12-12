@@ -46,3 +46,4 @@ bglvconf1.azureedge.net
 lbs.imolive.xyz
 sf19-fe-tos-sg.i18n-pglstatp.com
 www.imolive.tv
+fgwlbs.imoim.app
