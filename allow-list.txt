@@ -43,6 +43,7 @@ i01.appmifile.com
 i02.appmifile.com
 s01.appmifile.com
 a.fsdn.com
+click.redditmail.com
 
 # Wild Card
 @@||1337x.to^$important
@@ -70,3 +71,4 @@ a.fsdn.com
 @@||a.fsdn.com^$important
 @@||raw.githubusercontent.com^$important
 @@||blokada.org^$important
+@@||click.redditmail.com^$important
