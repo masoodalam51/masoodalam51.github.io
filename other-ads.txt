@@ -62,6 +62,12 @@ i-30.b-46096.ut.bench.utorrent.com
 apps.bittorrent.com
 router.utorrent.com
 router.bittorrent.com
+_bittorrent-tracker._tcp.182.48.196.192.dvois.com
+_bittorrent-tracker._tcp.48.196.192.dvois.com
+_bittorrent-tracker._tcp.196.192.dvois.com
+_bittorrent-tracker._tcp.192.dvois.com
+update.bittorrent.com
+
 
 # Redirector
 vemgreild.com
