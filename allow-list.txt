@@ -46,6 +46,8 @@ a.fsdn.com
 click.redditmail.com
 fdn.gsmarena.com
 fdn2.gsmarena.com
+pahe.ph
+
 # Wild Card
 @@||1337x.to^$important
 @@||hcaptcha.com^$important
@@ -75,3 +77,4 @@ fdn2.gsmarena.com
 @@||click.redditmail.com^$important
 @@||fdn.gsmarena.com^$important
 @@||fdn2.gsmarena.com^$important
+@@||pahe.ph^$important
