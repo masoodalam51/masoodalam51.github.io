@@ -67,7 +67,7 @@ _bittorrent-tracker._tcp.48.196.192.dvois.com
 _bittorrent-tracker._tcp.196.192.dvois.com
 _bittorrent-tracker._tcp.192.dvois.com
 update.bittorrent.com
-
+i-28.b-46096.ut.bench.utorrent.com
 
 # Redirector
 vemgreild.com
