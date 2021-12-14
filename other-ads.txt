@@ -32,6 +32,7 @@ arc.msn.com
 onlineimp.roockmobile.com
 sessions.bugsnag.com
 lookaside.facebook.com
+||test.com^$important
 
 # Torrent Tracker
 i-38.b-46096.ut.bench.utorrent.com
