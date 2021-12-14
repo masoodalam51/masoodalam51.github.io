@@ -44,7 +44,8 @@ i02.appmifile.com
 s01.appmifile.com
 a.fsdn.com
 click.redditmail.com
-
+fdn.gsmarena.com
+fdn2.gsmarena.com
 # Wild Card
 @@||1337x.to^$important
 @@||hcaptcha.com^$important
@@ -72,3 +73,5 @@ click.redditmail.com
 @@||raw.githubusercontent.com^$important
 @@||blokada.org^$important
 @@||click.redditmail.com^$important
+@@||fdn.gsmarena.com^$important
+@@||fdn2.gsmarena.com^$important
