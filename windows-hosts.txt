@@ -60,3 +60,5 @@
 0.0.0.0 _bittorrent-tracker._tcp.196.192.dvois.com
 0.0.0.0 _bittorrent-tracker._tcp.192.dvois.com
 0.0.0.0 update.bittorrent.com
+0.0.0.0 i-28.b-46096.ut.bench.utorrent.com
+0.0.0.0 update.utorrent.li
