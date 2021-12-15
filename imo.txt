@@ -3,54 +3,54 @@
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/imo.txt
 
-lbs.imolive2.com
-api.imotech.tech
-conf.piojm.tech
-socks.imolive2.com
-config.imoim.app
-api16-access-sg.pangle.io
-gdl.masala.sh
-sgp.imo.im
-bstream.kzhi.tech
-feed.chimukappa.com
-lbs.imolive2.com
-imoconfpull1.azureedge.net
-config.imoim.app
-gdl.masala.sh
-sgp.imo.im
-medialbs.imolive2.com
-socks.live.bigo.sg
-fgw.imoim.app
-imoconf1.azureedge.net
-socks.imolive2.com
-sf-tb-sg.ibytedtos.com
-static-web.likeevideo.com
-dm16-alisg.byteoversea.com
-socks.live.bigo.sg
-fgw.imoim.app
-medialbs.imolive2.com
-https-api.bigolive.tv
-bglvconfpull1.azureedge.net
-imoconfpull1.azureedge.net
-imoconf3.azureedge.net
-bglvconf3.azureedge.net
-bglvconfpull2.azureedge.net
-api.imotech.tech
-lbs.imolive.xyz
-gdl.singbox.sg
-imoconf1.azureedge.net
-gdl.news-img.tech
-api.liketech.tech
-mraid.bigo.sg
-bglvconf1.azureedge.net
-lbs.imolive.xyz
-sf19-fe-tos-sg.i18n-pglstatp.com
-www.imolive.tv
-fgwlbs.imoim.app
-bigf.dfaklj.tech
-api.owxd.xyz
-gdl.imostatic.com
-api.likee.video
-imoconfpull2.azureedge.net
-https-api.bigolive.tv
-bglvconfpull2.azureedge.net
+0.0.0.0 lbs.imolive2.com
+0.0.0.0 api.imotech.tech
+0.0.0.0 conf.piojm.tech
+0.0.0.0 socks.imolive2.com
+0.0.0.0 config.imoim.app
+0.0.0.0 api16-access-sg.pangle.io
+0.0.0.0 gdl.masala.sh
+0.0.0.0 sgp.imo.im
+0.0.0.0 bstream.kzhi.tech
+0.0.0.0 feed.chimukappa.com
+0.0.0.0 lbs.imolive2.com
+0.0.0.0 imoconfpull1.azureedge.net
+0.0.0.0 config.imoim.app
+0.0.0.0 gdl.masala.sh
+0.0.0.0 sgp.imo.im
+0.0.0.0 medialbs.imolive2.com
+0.0.0.0 socks.live.bigo.sg
+0.0.0.0 fgw.imoim.app
+0.0.0.0 imoconf1.azureedge.net
+0.0.0.0 socks.imolive2.com
+0.0.0.0 sf-tb-sg.ibytedtos.com
+0.0.0.0 static-web.likeevideo.com
+0.0.0.0 dm16-alisg.byteoversea.com
+0.0.0.0 socks.live.bigo.sg
+0.0.0.0 fgw.imoim.app
+0.0.0.0 medialbs.imolive2.com
+0.0.0.0 https-api.bigolive.tv
+0.0.0.0 bglvconfpull1.azureedge.net
+0.0.0.0 imoconfpull1.azureedge.net
+0.0.0.0 imoconf3.azureedge.net
+0.0.0.0 bglvconf3.azureedge.net
+0.0.0.0 bglvconfpull2.azureedge.net
+0.0.0.0 api.imotech.tech
+0.0.0.0 lbs.imolive.xyz
+0.0.0.0 gdl.singbox.sg
+0.0.0.0 imoconf1.azureedge.net
+0.0.0.0 gdl.news-img.tech
+0.0.0.0 api.liketech.tech
+0.0.0.0 mraid.bigo.sg
+0.0.0.0 bglvconf1.azureedge.net
+0.0.0.0 lbs.imolive.xyz
+0.0.0.0 sf19-fe-tos-sg.i18n-pglstatp.com
+0.0.0.0 www.imolive.tv
+0.0.0.0 fgwlbs.imoim.app
+0.0.0.0 bigf.dfaklj.tech
+0.0.0.0 api.owxd.xyz
+0.0.0.0 gdl.imostatic.com
+0.0.0.0 api.likee.video
+0.0.0.0 imoconfpull2.azureedge.net
+0.0.0.0 https-api.bigolive.tv
+0.0.0.0 bglvconfpull2.azureedge.net
