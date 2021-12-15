@@ -81,3 +81,6 @@ cdn.ndtv.com
 @@||fdn.gsmarena.com^$important
 @@||fdn2.gsmarena.com^$important
 @@||pahe.ph^$important
+@@||platform.linkedin.com^$important
+
+@@||static-exp2.licdn.com^$important
