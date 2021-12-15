@@ -3,26 +3,23 @@
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/wps.txt
 
-plugin-server.wps.com
-cloud.wpscdn.com
-imoconfpull2.azureedge.net
-https-api.bigolive.tv
-bglvconfpull2.azureedge.net
-plugin-server.wps.com
-cloud.wpscdn.com
-abroad-ad.kingsoft-office-service.com
-novel-recommend.wps.com
-cloudservice24.kingsoft-office-service.com
-movip.wps.com
-service-api.kingsoft-office-service.com
-store.wps.com
-account.wps.com
-params.wps.com
-cloudservice14.kingsoft-office-service.com
-wpsmail.net
-apph.wpsmail.net
-collect.wpsmail.net
-uid.ksosoft.com
-event.ksosoft.com
-dw-online.ksosoft.com
-event.wps.com
+0.0.0.0 plugin-server.wps.com
+0.0.0.0 cloud.wpscdn.com
+0.0.0.0 plugin-server.wps.com
+0.0.0.0 cloud.wpscdn.com
+0.0.0.0 abroad-ad.kingsoft-office-service.com
+0.0.0.0 novel-recommend.wps.com
+0.0.0.0 cloudservice24.kingsoft-office-service.com
+0.0.0.0 movip.wps.com
+0.0.0.0 service-api.kingsoft-office-service.com
+0.0.0.0 store.wps.com
+0.0.0.0 account.wps.com
+0.0.0.0 params.wps.com
+0.0.0.0 cloudservice14.kingsoft-office-service.com
+0.0.0.0 wpsmail.net
+0.0.0.0 apph.wpsmail.net
+0.0.0.0 collect.wpsmail.net
+0.0.0.0 uid.ksosoft.com
+0.0.0.0 event.ksosoft.com
+0.0.0.0 dw-online.ksosoft.com
+0.0.0.0 event.wps.com
