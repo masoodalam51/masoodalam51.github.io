@@ -4,69 +4,69 @@
 #  Homepage: https://masoodalam51.github.io/block.txt
 
 # Brave
-laptop-updates.brave.com
-go-updater.brave.com
-variations.brave.com
-p3a.brave.com
-brave-core-ext.s3.brave.com
+0.0.0.0 laptop-updates.brave.com
+0.0.0.0 go-updater.brave.com
+0.0.0.0 variations.brave.com
+0.0.0.0 p3a.brave.com
+0.0.0.0 brave-core-ext.s3.brave.com
 
 # MX Player
-i.mxplayer.j2inter.com
-mxvp-feature-toggle-prod-1.zenmxapps.com
-evt.mxplay.com
-=
-j2apps.s.llnwi.net
-androidc.mxplay.com
-androidapi.mxplay.com
+0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 evt.mxplay.com
+0.0.0.0 =
+0.0.0.0 j2apps.s.llnwi.net
+0.0.0.0 androidc.mxplay.com
+0.0.0.0 androidapi.mxplay.com
 
 
 #MiUi
-tracking.miui.com
-i2.api.io.mi.com
-sdkconfig.ad.xiaomi.com
-idmb.app.chat.global.xiaomi.net
-idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
-global.market.xiaomi.com
-connect.intl.rom.miui.com
-t14.market.mi-img.com
-au.ff.avast.sec.miui.com
-pi.ias.xiaomi.com
-au.ff.avast.sec.miui.com
-api.calendar.intl.miui.com
-newsfeed.api.intl.miui.com
-api.account.xiaomi.com
-log.avlyun.sec.intl.miui.com
-idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
-idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com
-idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
-idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
-weatherapi.intl.xiaomi.com
-idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
-file.market.xiaomi.com
-idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
-idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
-f2.market.xiaomi.com
-f5.market.xiaomi.com
-f3.market.xiaomi.com
-i.mi.com
-in-fcm.sms.intl.xiaomi.com
-metok.intl.xiaomi.com
-account.xiaomi.com
-thm.market.intl.xiaomi.com
-api.zhuti.intl.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
-sdkconfig.ad.india.xiaomi.com
-api.ad.intl.xiaomi.com
-global.api.huangye.miui.com
-resolver.msg.global.xiaomi.net
-api.ad.intl.xiaomi.com
-authbe.sec.intl.miui.com
-tracking.india.miui.com
-data.mistat.intl.xiaomi.com
-api.ad.intl.xiaomi.com
-update.intl.miui.com
-idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 i2.api.io.mi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 idmb.app.chat.global.xiaomi.net
+0.0.0.0 idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
+0.0.0.0 global.market.xiaomi.com
+0.0.0.0 connect.intl.rom.miui.com
+0.0.0.0 t14.market.mi-img.com
+0.0.0.0 au.ff.avast.sec.miui.com
+0.0.0.0 pi.ias.xiaomi.com
+0.0.0.0 au.ff.avast.sec.miui.com
+0.0.0.0 api.calendar.intl.miui.com
+0.0.0.0 newsfeed.api.intl.miui.com
+0.0.0.0 api.account.xiaomi.com
+0.0.0.0 log.avlyun.sec.intl.miui.com
+0.0.0.0 idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
+0.0.0.0 weatherapi.intl.xiaomi.com
+0.0.0.0 idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
+0.0.0.0 file.market.xiaomi.com
+0.0.0.0 idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
+0.0.0.0 f2.market.xiaomi.com
+0.0.0.0 f5.market.xiaomi.com
+0.0.0.0 f3.market.xiaomi.com
+0.0.0.0 i.mi.com
+0.0.0.0 in-fcm.sms.intl.xiaomi.com
+0.0.0.0 metok.intl.xiaomi.com
+0.0.0.0 account.xiaomi.com
+0.0.0.0 thm.market.intl.xiaomi.com
+0.0.0.0 api.zhuti.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.india.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 global.api.huangye.miui.com
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 update.intl.miui.com
+0.0.0.0 idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
 
 # Big G
-googleads.g.doubleclick.net
-static.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
