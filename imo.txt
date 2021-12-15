@@ -50,3 +50,4 @@ fgwlbs.imoim.app
 bigf.dfaklj.tech
 api.owxd.xyz
 gdl.imostatic.com
+api.likee.video
