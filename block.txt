@@ -70,6 +70,13 @@
 0.0.0.0 f7.market.xiaomi.com
 0.0.0.0 f8.market.xiaomi.com
 0.0.0.0 api.g.micloud.xiaomi.net
+0.0.0.0 ts.market.mi-img.com
+0.0.0.0 t14.market.xiaomi.com
+0.0.0.0 brs.api.intl.miui.com
+0.0.0.0 abroad.api.comm.intl.miui.com
+0.0.0.0 api.accelerator.intl.miui.com
+0.0.0.0 adv.sec.intl.miui.com 
+0.0.0.0 
 
 
 # Big G
