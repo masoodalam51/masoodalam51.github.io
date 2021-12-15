@@ -66,6 +66,11 @@
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 update.intl.miui.com
 0.0.0.0 idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
+0.0.0.0 f6.market.xiaomi.com
+0.0.0.0 f7.market.xiaomi.com
+0.0.0.0 f8.market.xiaomi.com
+0.0.0.0 api.g.micloud.xiaomi.net
+
 
 # Big G
 0.0.0.0 googleads.g.doubleclick.net
