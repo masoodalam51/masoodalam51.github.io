@@ -45,6 +45,7 @@ click.redditmail.com
 pahe.ph
 platform.linkedin.com
 static-exp2.licdn.com
+media-exp1.licdn.com
 
 # News Sites
 fdn.gsmarena.com
@@ -85,3 +86,4 @@ cdn.ndtv.com
 @@||pahe.ph^$important
 @@||platform.linkedin.com^$important
 @@||static-exp2.licdn.com^$important
+@@||media-exp1.licdn.com^$important
