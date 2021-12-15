@@ -80,6 +80,10 @@
 0.0.0.0 sa-api.api.intl.miui.com
 0.0.0.0 metok-ccc.intl.xiaomi.com
 
+# Mi Remote
+0.0.0.0 i2-urc.io.mi.com
+0.0.0.0 sdk.irdatabase.com 
+
 
 
 # Big G
