@@ -43,6 +43,8 @@ s01.appmifile.com
 a.fsdn.com
 click.redditmail.com
 pahe.ph
+platform.linkedin.com
+static-exp2.licdn.com
 
 # News Sites
 fdn.gsmarena.com
@@ -82,5 +84,4 @@ cdn.ndtv.com
 @@||fdn2.gsmarena.com^$important
 @@||pahe.ph^$important
 @@||platform.linkedin.com^$important
-
 @@||static-exp2.licdn.com^$important
