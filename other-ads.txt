@@ -3,77 +3,76 @@
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/other-ads.txt
 
-u3-in.teddymobile.cn
-u3-in.teddymobile.cn
-pushaction.foxpush.com
-publisher.foxpush.com
-pushaction.foxpush.com
-publisher.foxpush.com
-www.foxpush.com
-ads.api.vungle.com
-adunit.datawrkz.com
-img.wallpapersafari.com
-t.appsflyer.com
-bstream.kzhi.tech
-eu1-spiky.wzrkt.com
-wzrkt.com
-cdn.pushmart.net
-110n-num-in.connectingmobile.com
-gdl.news-cdn.site
-phone.sports.tile.appex.bing.com
-110-n.in.teddymobile.cn
-ctldl.windowsupdate.com
-adconfig.wynk.in
-hurypswrkjd.top
-lfghub-anonymous.xboxlive.com
-www.xboxab.com
-mem.gfx.ms
-arc.msn.com
-onlineimp.roockmobile.com
-sessions.bugsnag.com
-lookaside.facebook.com
-test.com
+0.0.0.0 u3-in.teddymobile.cn
+0.0.0.0 pushaction.foxpush.com
+0.0.0.0 publisher.foxpush.com
+0.0.0.0 pushaction.foxpush.com
+0.0.0.0 publisher.foxpush.com
+0.0.0.0 www.foxpush.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 adunit.datawrkz.com
+0.0.0.0 img.wallpapersafari.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 bstream.kzhi.tech
+0.0.0.0 eu1-spiky.wzrkt.com
+0.0.0.0 wzrkt.com
+0.0.0.0 cdn.pushmart.net
+0.0.0.0 110n-num-in.connectingmobile.com
+0.0.0.0 gdl.news-cdn.site
+0.0.0.0 phone.sports.tile.appex.bing.com
+0.0.0.0 110-n.in.teddymobile.cn
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 adconfig.wynk.in
+0.0.0.0 hurypswrkjd.top
+0.0.0.0 lfghub-anonymous.xboxlive.com
+0.0.0.0 www.xboxab.com
+0.0.0.0 mem.gfx.ms
+0.0.0.0 arc.msn.com
+0.0.0.0 onlineimp.roockmobile.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 lookaside.facebook.com
+0.0.0.0 test.com
 
 # Torrent Tracker
-i-38.b-46096.ut.bench.utorrent.com
-_bittorrent-tracker._tcp.com
-_bittorrent-tracker._tcp.dvois.com
-_bittorrent-tracker._tcp.250.dvois.com
-_bittorrent-tracker._tcp.198.250.dvois.com
-_bittorrent-tracker._tcp.48.198.250.dvois.com
-_bittorrent-tracker._tcp.182.48.198.250.dvois.com
-_bittorrent-tracker._tcp.13.dvois.com
-_bittorrent-tracker._tcp.197.13.dvois.com
-_bittorrent-tracker._tcp.48.197.13.dvois.com
-_bittorrent-tracker._tcp.182.48.197.13.dvois.com
-I-64.b-46096.ut.bench.utorrent.com
-i-64.b-46096.ut.bench.utorrent.com
-video.trontv.com
-i-5600.b-1957.helper.bench.utorrent.com
-i-32.b-46096.ut.bench.utorrent.com
-i-139.b-46096.ut.bench.utorrent.com
-utclient.utorrent.com
-i-29.b-46096.ut.bench.utorrent.com
-update.utorrent.com
-btinstall-artifacts.bittorrent.com
-cdn.ap.bittorrent.com
-i-43.b-46096.ut.bench.utorrent.com
-i-20.b-46096.ut.bench.utorrent.com
-i-30.b-46096.ut.bench.utorrent.com
-apps.bittorrent.com
-router.utorrent.com
-router.bittorrent.com
-_bittorrent-tracker._tcp.182.48.196.192.dvois.com
-_bittorrent-tracker._tcp.48.196.192.dvois.com
-_bittorrent-tracker._tcp.196.192.dvois.com
-_bittorrent-tracker._tcp.192.dvois.com
-update.bittorrent.com
-i-28.b-46096.ut.bench.utorrent.com
-update.utorrent.li
+0.0.0.0 i-38.b-46096.ut.bench.utorrent.com
+0.0.0.0 _bittorrent-tracker._tcp.com
+0.0.0.0 _bittorrent-tracker._tcp.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.250.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.198.250.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.48.198.250.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.182.48.198.250.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.13.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.197.13.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.48.197.13.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.182.48.197.13.dvois.com
+0.0.0.0 I-64.b-46096.ut.bench.utorrent.com
+0.0.0.0 i-64.b-46096.ut.bench.utorrent.com
+0.0.0.0 video.trontv.com
+0.0.0.0 i-5600.b-1957.helper.bench.utorrent.com
+0.0.0.0 i-32.b-46096.ut.bench.utorrent.com
+0.0.0.0 i-139.b-46096.ut.bench.utorrent.com
+0.0.0.0 utclient.utorrent.com
+0.0.0.0 i-29.b-46096.ut.bench.utorrent.com
+0.0.0.0 update.utorrent.com
+0.0.0.0 btinstall-artifacts.bittorrent.com
+0.0.0.0 cdn.ap.bittorrent.com
+0.0.0.0 i-43.b-46096.ut.bench.utorrent.com
+0.0.0.0 i-20.b-46096.ut.bench.utorrent.com
+0.0.0.0 i-30.b-46096.ut.bench.utorrent.com
+0.0.0.0 apps.bittorrent.com
+0.0.0.0 router.utorrent.com
+0.0.0.0 router.bittorrent.com
+0.0.0.0 _bittorrent-tracker._tcp.182.48.196.192.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.48.196.192.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.196.192.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.192.dvois.com
+0.0.0.0 update.bittorrent.com
+0.0.0.0 i-28.b-46096.ut.bench.utorrent.com
+0.0.0.0 update.utorrent.li
 
 # Redirector Popup
-vemgreild.com
-chooxaur.com
+0.0.0.0 vemgreild.com
+0.0.0.0 chooxaur.com
 
 # Wildcard
 ||shopee.in^
