@@ -3,108 +3,108 @@
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/realme.txt
 
-httpdns-push.heytapmobile.com
-mdp-appconf-in.heytapdl.com
-stg-data-in.ads.heytapmobile.com
-i-in.browser.heytapmobile.com
-dragate-in-dc.heytapmobile.com
-bdapi-in.ads.heytapmobile.com
-adx-in.ads.heytapmobile.com
-appconf-ocs-in.heytapdl.com
-cl-data-in.ads.heytapmobi.com
-ie-front-gl.heytapimg.com
-cloudi-in.browser.heytapmobile.com
-hdfsf.realmemobile.com
-u-in.cpc.heytapmobile.com
-actimg.heytapimg.com
-httpdns-push.heytapmobile.com
-iflow-in.browser.heytapmobile.com
-dhfs-in.heytapimage.com
-frontend-static-common-in.heytapdl.com
-api-in.play.heytapmobile.com
-play0.heytapimg.com
-storeimg.heytapimg.com
-stat-in.dc.oppomobile.com
-dhfsf.oppomobile.com
-mdp-appconf-in.heytapdl.com
-httpdns-push.heytapmobile.com
-i-in.browser.heytapmobile.com
-ie-front-gl.heytapimg.com
-iflow-in.browser.heytapmobile.com
-cloudi-in.browser.heytapmobile.com
-hdfsf.realmemobile.com
-actimg.heytapimg.com
-omes-sec.heytapmobile.com
-img-intl-push.heytapimg.com
-api-in.store.heytapmobi.comclient-uc.heytapmobi.com
-icosa-sg.coloros.com
-conff.dc.oppomobile.com
-log-eap-in.coloros.com
-conn3.coloros.com
-conf-in-dc.heytapmobile.com
-gameimg.heytapimg.com
-conf-in-dc.heytapdl.com
-lang-in.coloros.com
-conn5.coloros.com
-api-gl.cdo.heytapmobi.com
-ifsau-in.coloros.com
-component-ota-in.coloros.com
-httpdns.ocloud.oppomobile.com
-videoclipf.apps.coloros.com
-ifrus-in.coloros.com
-conn4.coloros.com
-setting.musicdream.club
-omes-sec.heytapmobile.com
-img-intl-push.heytapimg.com
-conf-in-dc.heytapmobile.com
-api-gl.cdo.heytapmobi.com
-log-eap-in.coloros.com
-api-in.store.heytapmobi.com
-conn1.oppomobile.com
-110-dot-in.teddymobile.cn
-moa-upload-in.allawnos.com
-client-uc.heytapmobi.com
-conn4.coloros.com
-lang-in.coloros.com
-ifsau-in.coloros.com
-component-ota-in.coloros.com
-storeimg.heytapimg.com
-conn1.oppomobile.com
-conn5.coloros.com
-icosa-sg.coloros.com
-ifrus-in.coloros.com
-videoclipf.apps.coloros.com
-httpdns.ocloud.oppomobile.com
-conn3.coloros.com
-gameimg.heytapimg.com
-epoch-in.cdo.heytapmobi.com
-api-in.cdo.heytapmobile.com
-mdp-appconf-sg.heytapdl.com
-classify-app-in.allawnos.com
-conf-in-dc.heytapdl.com
-gslb-gl.cdo.heytapmobi.com
-slb-apisnd-in.heytapmobile.com
-u-in.cpc.heytapmobile.com
-stat-in.dc.oppomobile.com
-epoch-in.cdo.heytapmobi.com
-in-store.realmemobile.com
-storedl5f.nearme.com.cn
-mdp-usertrace-in.heytapmobile.com
-oppo.publicvibe.com
-api.publicvibe.com
-proxyf.apps.oppomobile.com
-img.connectingmobile.com
-api-in.cdo.heytapmobile.com
-i6-in.weather.oppomobile.com
-realme-oem.avira-update.com
-obus-in.dc.heytapmobile.com
-appconf.heytapdownload.com
-icota-eu.coloros.com
-obus-dc20123-in.heytapmobile.com
-i-in01a-ocloud.heytapmobile.com
-smartcardf.apps.coloros.com
-obus-dc2-in.heytapmobile.com
-languagef-in.coloros.com
+0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 mdp-appconf-in.heytapdl.com
+0.0.0.0 stg-data-in.ads.heytapmobile.com
+0.0.0.0 i-in.browser.heytapmobile.com
+0.0.0.0 dragate-in-dc.heytapmobile.com
+0.0.0.0 bdapi-in.ads.heytapmobile.com
+0.0.0.0 adx-in.ads.heytapmobile.com
+0.0.0.0 appconf-ocs-in.heytapdl.com
+0.0.0.0 cl-data-in.ads.heytapmobi.com
+0.0.0.0 ie-front-gl.heytapimg.com
+0.0.0.0 cloudi-in.browser.heytapmobile.com
+0.0.0.0 hdfsf.realmemobile.com
+0.0.0.0 u-in.cpc.heytapmobile.com
+0.0.0.0 actimg.heytapimg.com
+0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 iflow-in.browser.heytapmobile.com
+0.0.0.0 dhfs-in.heytapimage.com
+0.0.0.0 frontend-static-common-in.heytapdl.com
+0.0.0.0 api-in.play.heytapmobile.com
+0.0.0.0 play0.heytapimg.com
+0.0.0.0 storeimg.heytapimg.com
+0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 dhfsf.oppomobile.com
+0.0.0.0 mdp-appconf-in.heytapdl.com
+0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 i-in.browser.heytapmobile.com
+0.0.0.0 ie-front-gl.heytapimg.com
+0.0.0.0 iflow-in.browser.heytapmobile.com
+0.0.0.0 cloudi-in.browser.heytapmobile.com
+0.0.0.0 hdfsf.realmemobile.com
+0.0.0.0 actimg.heytapimg.com
+0.0.0.0 omes-sec.heytapmobile.com
+0.0.0.0 img-intl-push.heytapimg.com
+0.0.0.0 api-in.store.heytapmobi.comclient-uc.heytapmobi.com
+0.0.0.0 icosa-sg.coloros.com
+0.0.0.0 conff.dc.oppomobile.com
+0.0.0.0 log-eap-in.coloros.com
+0.0.0.0 conn3.coloros.com
+0.0.0.0 conf-in-dc.heytapmobile.com
+0.0.0.0 gameimg.heytapimg.com
+0.0.0.0 conf-in-dc.heytapdl.com
+0.0.0.0 lang-in.coloros.com
+0.0.0.0 conn5.coloros.com
+0.0.0.0 api-gl.cdo.heytapmobi.com
+0.0.0.0 ifsau-in.coloros.com
+0.0.0.0 component-ota-in.coloros.com
+0.0.0.0 httpdns.ocloud.oppomobile.com
+0.0.0.0 videoclipf.apps.coloros.com
+0.0.0.0 ifrus-in.coloros.com
+0.0.0.0 conn4.coloros.com
+0.0.0.0 setting.musicdream.club
+0.0.0.0 omes-sec.heytapmobile.com
+0.0.0.0 img-intl-push.heytapimg.com
+0.0.0.0 conf-in-dc.heytapmobile.com
+0.0.0.0 api-gl.cdo.heytapmobi.com
+0.0.0.0 log-eap-in.coloros.com
+0.0.0.0 api-in.store.heytapmobi.com
+0.0.0.0 conn1.oppomobile.com
+0.0.0.0 110-dot-in.teddymobile.cn
+0.0.0.0 moa-upload-in.allawnos.com
+0.0.0.0 client-uc.heytapmobi.com
+0.0.0.0 conn4.coloros.com
+0.0.0.0 lang-in.coloros.com
+0.0.0.0 ifsau-in.coloros.com
+0.0.0.0 component-ota-in.coloros.com
+0.0.0.0 storeimg.heytapimg.com
+0.0.0.0 conn1.oppomobile.com
+0.0.0.0 conn5.coloros.com
+0.0.0.0 icosa-sg.coloros.com
+0.0.0.0 ifrus-in.coloros.com
+0.0.0.0 videoclipf.apps.coloros.com
+0.0.0.0 httpdns.ocloud.oppomobile.com
+0.0.0.0 conn3.coloros.com
+0.0.0.0 gameimg.heytapimg.com
+0.0.0.0 epoch-in.cdo.heytapmobi.com
+0.0.0.0 api-in.cdo.heytapmobile.com
+0.0.0.0 mdp-appconf-sg.heytapdl.com
+0.0.0.0 classify-app-in.allawnos.com
+0.0.0.0 conf-in-dc.heytapdl.com
+0.0.0.0 gslb-gl.cdo.heytapmobi.com
+0.0.0.0 slb-apisnd-in.heytapmobile.com
+0.0.0.0 u-in.cpc.heytapmobile.com
+0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 epoch-in.cdo.heytapmobi.com
+0.0.0.0 in-store.realmemobile.com
+0.0.0.0 storedl5f.nearme.com.cn
+0.0.0.0 mdp-usertrace-in.heytapmobile.com
+0.0.0.0 oppo.publicvibe.com
+0.0.0.0 api.publicvibe.com
+0.0.0.0 proxyf.apps.oppomobile.com
+0.0.0.0 img.connectingmobile.com
+0.0.0.0 api-in.cdo.heytapmobile.com
+0.0.0.0 i6-in.weather.oppomobile.com
+0.0.0.0 realme-oem.avira-update.com
+0.0.0.0 obus-in.dc.heytapmobile.com
+0.0.0.0 appconf.heytapdownload.com
+0.0.0.0 icota-eu.coloros.com
+0.0.0.0 obus-dc20123-in.heytapmobile.com
+0.0.0.0 i-in01a-ocloud.heytapmobile.com
+0.0.0.0 smartcardf.apps.coloros.com
+0.0.0.0 obus-dc2-in.heytapmobile.com
+0.0.0.0 languagef-in.coloros.com
 
 
 # WildCard
