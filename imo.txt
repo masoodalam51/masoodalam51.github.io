@@ -51,3 +51,6 @@ bigf.dfaklj.tech
 api.owxd.xyz
 gdl.imostatic.com
 api.likee.video
+imoconfpull2.azureedge.net
+https-api.bigolive.tv
+bglvconfpull2.azureedge.net
