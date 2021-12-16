@@ -52,5 +52,6 @@
 0.0.0.0 gdl.imostatic.com
 0.0.0.0 api.likee.video
 0.0.0.0 imoconfpull2.azureedge.net
+0.0.0.0 giftesx.dfaklj.tech
 0.0.0.0 https-api.bigolive.tv
 0.0.0.0 bglvconfpull2.azureedge.net
