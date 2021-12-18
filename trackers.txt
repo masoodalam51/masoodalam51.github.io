@@ -39,7 +39,7 @@ Oisd Extra WildCard
 https://blokada.org/mirror/v5/oisd/extra%20(wildcards)/hosts.txt
 
 StevenBlack Hosts Blocking
-https://blokada.org/mirror/v5/stevenblack/unified/hosts.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 GoodbyeAds Xiaomi Adblock Extension
 https://blokada.org/mirror/v5/goodbyeads/xiaomi/hosts.txt
@@ -80,6 +80,11 @@ https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 Masood Windows Hosts Personal Blocking List (Only for Windows)
 https://masoodalam51.github.io/windows-hosts.txt
 
+Tiuxo
+https://raw.githubusercontent.com/tiuxo/hosts/master/ads 
+
+AdWars
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts 
 
 ## Allow Lists URL
 ## https://masoodalam51.github.io/allow-list.txt
