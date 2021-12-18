@@ -62,3 +62,8 @@
 # New Entries
 0.0.0.0 wpc.v0cdn.net
 0.0.0.0 bglvconf3.ec.azureedge.net
+0.0.0.0 aktrack.pubmatic.com
+
+#WildCard
+||pubmatic.com^
+
