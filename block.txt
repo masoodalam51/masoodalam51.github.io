@@ -18,6 +18,9 @@
 0.0.0.0 j2apps.s.llnwi.net
 0.0.0.0 androidc.mxplay.com
 0.0.0.0 androidapi.mxplay.com
+0.0.0.0 mxase.clmbtech.com
+0.0.0.0 ade.clmbtech.com 
+0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 
 
 #MiUi
