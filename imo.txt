@@ -57,3 +57,7 @@
 0.0.0.0 bglvconfpull2.azureedge.net
 0.0.0.0 img.like.video
 0.0.0.0 bglvconf3.azureedge.net
+
+# New Entries
+0.0.0.0 wpc.v0cdn.net
+0.0.0.0 bglvconf3.ec.azureedge.net
