@@ -63,6 +63,7 @@
 0.0.0.0 wpc.v0cdn.net
 0.0.0.0 cloud-citadel-assets-verizon-clsprd-eun.azureedge.net
 0.0.0.0 aktrack.pubmatic.com
+0.0.0.0 t.appsflyer.com
 
 #WildCard
 ||pubmatic.com^
@@ -101,5 +102,6 @@
 ||bglvconf3.ec.azureedge.net^
 ||like-video.com^
 ||imoim.net^
+||appsflyer.com^
 ||d1p8w5h30icryu.cloudfront.net^
 ||cloud-citadel-assets-verizon-clsprd-eun.azureedge.net^
