@@ -23,3 +23,10 @@
 0.0.0.0 event.ksosoft.com
 0.0.0.0 dw-online.ksosoft.com
 0.0.0.0 event.wps.com
+
+# WPS WildCard
+|wps.com^
+|wpscdn.com^
+|kingsoft-office-service.com^
+|wpsmail.net^
+|kosoft.com^
