@@ -86,8 +86,9 @@ https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 AdWars
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts 
 
-1Hosts (mini)
-https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.txt
+1Hosts (Lite)
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 
 ## Allow Lists URL
 ## https://masoodalam51.github.io/allow-list.txt
