@@ -54,9 +54,6 @@ https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi
 AdGaurd DNS Filter
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
-Masood Windows Hosts Personal Blocking List (Only for Windows)
-https://masoodalam51.github.io/windows-hosts.txt
-
 Tiuxo
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads 
 
@@ -66,6 +63,10 @@ https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 1Hosts (Lite)
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+
+No Tracking
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
 ## Allow Lists URL
 ## https://masoodalam51.github.io/allow-list.txt
