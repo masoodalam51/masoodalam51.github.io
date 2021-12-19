@@ -101,3 +101,4 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adservice.google.com 
+www.googleadservices.com
