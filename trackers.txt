@@ -17,6 +17,7 @@ Masood WPS Office
 https://masoodalam51.github.io/wps.txt
 
 Peter Lowe's List
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 
 WindowsSpyBlocker - Hosts spy rules
@@ -32,7 +33,6 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 GoodbyeAds Xiaomi Adblock Extension
 https://blokada.org/mirror/v5/goodbyeads/xiaomi/hosts.txt
 
-
 Anudeep's Adserver Blacklist
 https://blokada.org/mirror/v5/blacklist/adservers/hosts.txt
 
@@ -41,7 +41,6 @@ https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 
 Developer Dan Ads
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-
 
 Dan Pollock
 https://blokada.org/mirror/v5/danpollock/standard/hosts.txt
