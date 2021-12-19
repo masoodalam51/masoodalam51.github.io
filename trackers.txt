@@ -68,5 +68,9 @@ No Tracking
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
+Anti POP Ads
+https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
+https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+
 ## Allow Lists URL
 ## https://masoodalam51.github.io/allow-list.txt
