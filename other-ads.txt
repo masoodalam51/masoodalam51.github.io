@@ -32,6 +32,13 @@
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 test.com
+0.0.0.0 wd.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 androidads4-1.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+
+
 
 # Torrent Tracker
 0.0.0.0 i-38.b-46096.ut.bench.utorrent.com
@@ -80,3 +87,7 @@
 ||=^
 ||hurypswrkjd.top^
 ||test.com^
+||adcolony.com^
+||lookaside.facebook.com^
+||sessions.bugsnag.com^
+||aws.userlogsanalytics.com^
