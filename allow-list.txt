@@ -71,9 +71,9 @@ cdn.ndtv.com
 @@||account.shareasale.com^$important
 @@||postaffiliatepro.com^$important
 @@||yt3.ggpht.com^$important
-@@||clients*.google.com^$important
-@@||gvt2.com^$important
-@@||csi.gstatic.com^$important
+## @@||clients*.google.com^$important
+## @@||gvt2.com^$important
+## @@||csi.gstatic.com^$important
 @@||futurecdn.net^$important
 @@||cdn-production-opera-website.operacdn.com^$important
 @@||static-exp1.licdn.com^$important
