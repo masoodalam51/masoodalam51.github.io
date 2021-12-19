@@ -1,7 +1,6 @@
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/trackers.txt
 
-
 Masood Block List
 https://masoodalam51.github.io/block.txt
 
@@ -17,26 +16,15 @@ https://masoodalam51.github.io/realme.txt
 Masood WPS Office
 https://masoodalam51.github.io/wps.txt
 
-uBlock Origin uAssessts
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
-
-uBlock filters – Unbreak
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
-
-uBlock filters – Privacy
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
-
-uBlock filters – Resource abuse
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-
 Peter Lowe's List
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 
 WindowsSpyBlocker - Hosts spy rules
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
-Oisd Extra WildCard
-https://blokada.org/mirror/v5/oisd/extra%20(wildcards)/hosts.txt
+Oisd
+https://hosts.oisd.nl/
+https://abp.oisd.nl/
 
 StevenBlack Hosts Blocking
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -44,11 +32,6 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 GoodbyeAds Xiaomi Adblock Extension
 https://blokada.org/mirror/v5/goodbyeads/xiaomi/hosts.txt
 
-Phishing Army
-https://blokada.org/mirror/v5/phishingarmy/extended/hosts.txt
-
-DDG Tracker Radar
-https://blokada.org/mirror/v5/ddgtrackerradar/standard/hosts.txt
 
 Anudeep's Adserver Blacklist
 https://blokada.org/mirror/v5/blacklist/adservers/hosts.txt
@@ -57,13 +40,8 @@ Exodus Privacy
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 
 Developer Dan Ads
-https://blokada.org/mirror/v5/developerdan/ads/hosts.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 
-Spam404
-https://blokada.org/mirror/v5/spam404/standard/hosts.txt
-
-URL Haus - Malicious Hosts Blocklist
-https://blokada.org/mirror/v5/urlhaus/standard/hosts.txt
 
 Dan Pollock
 https://blokada.org/mirror/v5/danpollock/standard/hosts.txt
