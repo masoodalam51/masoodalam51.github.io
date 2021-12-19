@@ -69,7 +69,7 @@ Dan Pollock
 https://blokada.org/mirror/v5/danpollock/standard/hosts.txt
 
 AdAway Default Blocklist
-https://blokada.org/mirror/v5/adaway/standard/hosts.txt
+https://adaway.org/hosts.txt
 
 PiHole Porn Black Lists
 https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
