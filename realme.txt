@@ -119,3 +119,4 @@
 ||publicvibe.com^
 ||heytapimg.com^
 ||heytapmobi.com^
+||teddymobile.cn^
