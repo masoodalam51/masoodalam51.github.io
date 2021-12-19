@@ -106,6 +106,9 @@
 0.0.0.0 obus-dc2-in.heytapmobile.com
 0.0.0.0 languagef-in.coloros.com
 0.0.0.0 obus-dc20123-in.heytapmobile.com
+0.0.0.0 videoclipf.apps.coloros.com
+0.0.0.0 conn4.coloros.com
+
 
 # WildCard
 ||heytapmobile.com^
