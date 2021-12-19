@@ -108,7 +108,8 @@
 0.0.0.0 obus-dc20123-in.heytapmobile.com
 0.0.0.0 videoclipf.apps.coloros.com
 0.0.0.0 conn4.coloros.com
-
+0.0.0.0 fourier-videoclip-in.allawnos.com
+0.0.0.0 in-ilockcardf.realme.com 
 
 # WildCard
 ||heytapmobile.com^
