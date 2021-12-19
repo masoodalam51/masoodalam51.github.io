@@ -3,7 +3,6 @@
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/imo.txt
 
-0.0.0.0 lbs.imolive2.com
 0.0.0.0 api.imotech.tech
 0.0.0.0 conf.piojm.tech
 0.0.0.0 socks.imolive2.com
@@ -17,7 +16,6 @@
 0.0.0.0 imoconfpull1.azureedge.net
 0.0.0.0 config.imoim.app
 0.0.0.0 gdl.masala.sh
-0.0.0.0 sgp.imo.im
 0.0.0.0 medialbs.imolive2.com
 0.0.0.0 socks.live.bigo.sg
 0.0.0.0 fgw.imoim.app
@@ -57,13 +55,48 @@
 0.0.0.0 bglvconfpull2.azureedge.net
 0.0.0.0 img.like.video
 0.0.0.0 bglvconf3.azureedge.net
+0.0.0.0 bglvconf3.ec.azureedge.net
 0.0.0.0 d1p8w5h30icryu.cloudfront.net
 
 # New Entries
 0.0.0.0 wpc.v0cdn.net
-0.0.0.0 bglvconf3.ec.azureedge.net
+0.0.0.0 cloud-citadel-assets-verizon-clsprd-eun.azureedge.net
 0.0.0.0 aktrack.pubmatic.com
 
 #WildCard
 ||pubmatic.com^
-
+||imolive2.com^
+||imotech.tech^
+||piojm.tech^
+||imoim.app^
+||pangle.io^
+||masala.sh^
+||imo.im^
+||kzhi.tech^
+||chimukappa.com^
+||bigo.sg^
+||ibytedtos.com^
+||likeevideo.com^
+||byteoversea.com^
+||bigolive.tv^
+||imolive.xyz^
+||singbox.sg^
+||news-img.tech^
+||liketech.tech^
+||i18n-pglstatp.com^
+||imolive.tv^
+||dfaklj.tech^
+||owxd.xyz^
+||imostatic.com^
+||likee.video^
+||like.video^
+||imoconf1.azureedge.net^
+||imoconfpull1.azureedge.net^
+||imoconfpull2.azureedge.net^
+||bglvconf1.azureedge.net^
+||bglvconfpull1.azureedge.net^
+||bglvconfpull2.azureedge.net^
+||bglvconf3.azureedge.net^
+||bglvconf3.ec.azureedge.net^
+||d1p8w5h30icryu.cloudfront.net^
+||cloud-citadel-assets-verizon-clsprd-eun.azureedge.net^
