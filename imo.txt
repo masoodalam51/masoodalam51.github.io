@@ -57,6 +57,7 @@
 0.0.0.0 bglvconf3.azureedge.net
 0.0.0.0 bglvconf3.ec.azureedge.net
 0.0.0.0 d1p8w5h30icryu.cloudfront.net
+0.0.0.0 static-act.like-video.com
 
 # New Entries
 0.0.0.0 wpc.v0cdn.net
@@ -98,5 +99,6 @@
 ||bglvconfpull2.azureedge.net^
 ||bglvconf3.azureedge.net^
 ||bglvconf3.ec.azureedge.net^
+||like-video.com^
 ||d1p8w5h30icryu.cloudfront.net^
 ||cloud-citadel-assets-verizon-clsprd-eun.azureedge.net^
