@@ -100,7 +100,7 @@
 0.0.0.0 obus-in.dc.heytapmobile.com
 0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 icota-eu.coloros.com
-0.0.0.0 obus-dc20123-in.heytapmobile.com
+
 0.0.0.0 i-in01a-ocloud.heytapmobile.com
 0.0.0.0 smartcardf.apps.coloros.com
 0.0.0.0 obus-dc2-in.heytapmobile.com
