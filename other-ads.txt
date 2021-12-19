@@ -84,10 +84,10 @@
 # Wildcard
 ||shopee.in^
 ||shopeemobile.com^
-||=^
 ||hurypswrkjd.top^
 ||test.com^
 ||adcolony.com^
 ||lookaside.facebook.com^
 ||sessions.bugsnag.com^
 ||aws.userlogsanalytics.com^
+||foxpush.com^
