@@ -37,7 +37,12 @@
 0.0.0.0 events3.adcolony.com
 0.0.0.0 androidads4-1.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
-
+0.0.0.0 log-collector.shopee.in
+0.0.0.0 livetech.shopee.in
+0.0.0.0 df.infra.shopee.in
+0.0.0.0 c-api-bit.shopeemobile.com
+0.0.0.0 mall.shopee.in
+0.0.0.0 pizzaseo.com
 
 
 # Torrent Tracker
@@ -96,3 +101,4 @@
 ||sessions.bugsnag.com^
 ||aws.userlogsanalytics.com^
 ||foxpush.com^
+||pizzaseo.com^
