@@ -2,6 +2,7 @@
 #  Syntax: dbl       
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/realme.txt
+#  For Wildcard check - https://masoodalam51.github.io/wildcard.txt
 
 0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 mdp-appconf-in.heytapdl.com
@@ -100,7 +101,6 @@
 0.0.0.0 obus-in.dc.heytapmobile.com
 0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 icota-eu.coloros.com
-
 0.0.0.0 i-in01a-ocloud.heytapmobile.com
 0.0.0.0 smartcardf.apps.coloros.com
 0.0.0.0 obus-dc2-in.heytapmobile.com
@@ -110,17 +110,3 @@
 0.0.0.0 conn4.coloros.com
 0.0.0.0 fourier-videoclip-in.allawnos.com
 0.0.0.0 in-ilockcardf.realme.com 
-
-# WildCard
-||heytapmobile.com^
-||oppomobile.com^
-||realmemobile.com^
-||heytapdownload.com^
-||coloros.com^
-||nearme.com.cn^
-||heytapdl.com^
-||allawnos.com^
-||publicvibe.com^
-||heytapimg.com^
-||heytapmobi.com^
-||teddymobile.cn^
