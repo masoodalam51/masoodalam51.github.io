@@ -1,5 +1,9 @@
 #  Maintainer: masoodalam51
+#  Wildcard Domain Blocking for My Own Lists
+#  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/wildcard.txt
+
+
 
 ###  Source: https://masoodalam51.github.io/block.txt  ###
 
@@ -36,3 +40,93 @@
 ||doubleclick.net^
 ||adservice.google.com^
 ||googleadservices.com^
+
+
+
+###  Source: https://masoodalam51.github.io/imo.txt  ###
+
+#WildCard
+||pubmatic.com^
+||imolive2.com^
+||imotech.tech^
+||piojm.tech^
+||imoim.app^
+||pangle.io^
+||masala.sh^
+||imo.im^
+||kzhi.tech^
+||chimukappa.com^
+||bigo.sg^
+||ibytedtos.com^
+||likeevideo.com^
+||byteoversea.com^
+||bigolive.tv^
+||imolive.xyz^
+||singbox.sg^
+||news-img.tech^
+||liketech.tech^
+||i18n-pglstatp.com^
+||imolive.tv^
+||dfaklj.tech^
+||owxd.xyz^
+||imostatic.com^
+||likee.video^
+||like.video^
+||imoconf1.azureedge.net^
+||imoconfpull1.azureedge.net^
+||imoconfpull2.azureedge.net^
+||bglvconf1.azureedge.net^
+||bglvconfpull1.azureedge.net^
+||bglvconfpull2.azureedge.net^
+||bglvconf3.azureedge.net^
+||bglvconf3.ec.azureedge.net^
+||like-video.com^
+||imoim.net^
+||appsflyer.com^
+||d1p8w5h30icryu.cloudfront.net^
+||cloud-citadel-assets-verizon-clsprd-eun.azureedge.net^
+
+
+
+###  Homepage: https://masoodalam51.github.io/block.txt  ###
+
+# Wildcard
+||shopee.in^
+||shopeemobile.com^
+||hurypswrkjd.top^
+||test.com^
+||adcolony.com^
+||lookaside.facebook.com^
+||sessions.bugsnag.com^
+||aws.userlogsanalytics.com^
+||foxpush.com^
+||pizzaseo.com^
+
+
+
+###  Source: https://masoodalam51.github.io/realme.txt  ###
+
+# WildCard
+||heytapmobile.com^
+||oppomobile.com^
+||realmemobile.com^
+||heytapdownload.com^
+||coloros.com^
+||nearme.com.cn^
+||heytapdl.com^
+||allawnos.com^
+||publicvibe.com^
+||heytapimg.com^
+||heytapmobi.com^
+||teddymobile.cn^
+
+
+
+###  Source: https://masoodalam51.github.io/wps.txt  ###
+
+# WPS WildCard
+||wps.com^
+||wpscdn.com^
+||kingsoft-office-service.com^
+||wpsmail.net^
+||kosoft.com^
