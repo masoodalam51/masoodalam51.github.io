@@ -2,6 +2,8 @@
 #  Syntax: dbl       
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/other-ads.txt
+#  For Wildcard check - https://masoodalam51.github.io/wildcard.txt
+
 
 0.0.0.0 u3-in.teddymobile.cn
 0.0.0.0 pushaction.foxpush.com
@@ -85,26 +87,3 @@
 0.0.0.0 _bittorrent-tracker._tcp.197.184.dvois.com
 0.0.0.0 _bittorrent-tracker._tcp.48.197.184.dvois.com
 0.0.0.0 _bittorrent-tracker._tcp.182.48.197.184.dvois.com
-
-
-# Redirector Popup
-0.0.0.0 vemgreild.com
-0.0.0.0 chooxaur.com
-
-### Testing
-0.0.0.0 adx-dra.op.hicloud.com
-0.0.0.0 events-dra.op.hicloud.com
-0.0.0.0 sdkserver-dra.op.hicloud.com
-||hicloud.com^
-
-# Wildcard
-||shopee.in^
-||shopeemobile.com^
-||hurypswrkjd.top^
-||test.com^
-||adcolony.com^
-||lookaside.facebook.com^
-||sessions.bugsnag.com^
-||aws.userlogsanalytics.com^
-||foxpush.com^
-||pizzaseo.com^
