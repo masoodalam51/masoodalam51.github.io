@@ -93,6 +93,7 @@
 0.0.0.0 inac.account.xiaomi.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 api.sms.intl.miui.com
+0.0.0.0 api.micloud.xiaomi.net
 
 
 # Mi Remote
