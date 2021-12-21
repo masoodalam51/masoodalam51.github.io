@@ -46,6 +46,10 @@
 0.0.0.0 mall.shopee.in
 0.0.0.0 pizzaseo.com
 
+# SwiftKey Blocking
+0.0.0.0 snippetdata.api.swiftkey.com
+0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 bibo.api.swiftkey.com
 
 # Torrent Tracker
 0.0.0.0 i-38.b-46096.ut.bench.utorrent.com
