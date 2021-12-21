@@ -92,6 +92,8 @@
 0.0.0.0 f5.market.mi-img.com
 0.0.0.0 inac.account.xiaomi.com
 0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 api.sms.intl.miui.com
+
 
 # Mi Remote
 0.0.0.0 i2-urc.io.mi.com
