@@ -50,6 +50,7 @@ media-exp1.licdn.com
 graph.facebook.com # needed for facebook groups
 b-graph.facebook.com # needed for facebook pages manager
 b-api.facebook.com # required for Facebook Messenger login on mobile
+mqtt-mini.facebook.com # required for Facebook Lite Messenger login on mobile
 edge-mqtt.facebook.com # needed for facebook groups
 
 # News Sites
