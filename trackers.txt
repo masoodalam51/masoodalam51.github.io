@@ -1,20 +1,20 @@
 #  Maintainer: masoodalam51
-#  Homepage: https://masoodalam51.github.io/trackers.txt
+#  Homepage: https://masoodalam51.github.io/trackers.txt 
 
 Masood Block List
-https://masoodalam51.github.io/block.txt
+https://masoodalam51.github.io/block.txt # Hosts Files
 
 Masood IMO
-https://masoodalam51.github.io/imo.txt
+https://masoodalam51.github.io/imo.txt # Hosts Files
 
 Masood Others Ads
-https://masoodalam51.github.io/other-ads.txt
+https://masoodalam51.github.io/other-ads.txt # Hosts Files
 
 Masood Realme
-https://masoodalam51.github.io/realme.txt
+https://masoodalam51.github.io/realme.txt # Hosts Files
 
 Masood WPS Office
-https://masoodalam51.github.io/wps.txt
+https://masoodalam51.github.io/wps.txt # Hosts Files
 
 Goodbye Ads
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt # Hosts Files
@@ -62,10 +62,6 @@ https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi
 1Hosts (Lite)
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt # Hosts Files
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
-
-No Tracking
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt # Hosts Files
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
 ## Allow Lists URL
 ## https://masoodalam51.github.io/allow-list.txt
