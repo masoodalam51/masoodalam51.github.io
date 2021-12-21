@@ -21,11 +21,11 @@
 # MI Xiaomi
 ||miui.com^
 ||mi.com^
-||xiaomi.com^
+||xiaomi.com^l
 ||mi-img.com^
 ||xiaomi.net^
 ||mipay.com^
-||irdatabase.com^
+
 ||idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com^
 ||idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com^
 ||idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com^
