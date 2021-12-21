@@ -16,60 +16,68 @@ https://masoodalam51.github.io/realme.txt
 Masood WPS Office
 https://masoodalam51.github.io/wps.txt
 
+Goodbye Ads
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt # Hosts Files
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt # Youtube Hosts Files
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt # Samsung Hosts Files
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt # Spotify Hosts Files
+
+GoodbyeAds Xiaomi Adblock Extension
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt # Xiaomi Hosts Files 
+
 Peter Lowe's List
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext # Hosts Files
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 
 WindowsSpyBlocker - Hosts spy rules
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt # Hosts Files
 
 Oisd
-https://hosts.oisd.nl/
+https://hosts.oisd.nl/ # Hosts Files
 https://abp.oisd.nl/
 
 StevenBlack Hosts Blocking
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-
-GoodbyeAds Xiaomi Adblock Extension
-https://blokada.org/mirror/v5/goodbyeads/xiaomi/hosts.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts # Hosts Files
 
 Anudeep's Adserver Blacklist
-https://blokada.org/mirror/v5/blacklist/adservers/hosts.txt
+https://hosts.anudeep.me/mirror/adservers.txt # Hosts Files
 
 Exodus Privacy
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 
 Developer Dan Ads
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt # Hosts Files
 
 Dan Pollock
-https://blokada.org/mirror/v5/danpollock/standard/hosts.txt
+https://blokada.org/mirror/v5/danpollock/standard/hosts.txt # Hosts Files
 
 AdAway Default Blocklist
-https://adaway.org/hosts.txt
+https://adaway.org/hosts.txt # Hosts Files
 
 PiHole Porn Black Lists
-https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list 
 
 AdGaurd DNS Filter
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 Tiuxo
-https://raw.githubusercontent.com/tiuxo/hosts/master/ads 
+https://raw.githubusercontent.com/tiuxo/hosts/master/ads # Hosts Files
 
 AdWars
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts 
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts # Hosts Files
 
 1Hosts (Lite)
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt # Hosts Files
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 
 No Tracking
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt # Hosts Files
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
 Anti POP Ads
-https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
+https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts # Hosts Files
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 
 Perflyst Android PiHoleBlocklist
