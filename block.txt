@@ -89,9 +89,8 @@
 0.0.0.0 api.sms.intl.miui.com
 0.0.0.0 api.micloud.xiaomi.net
 
-# Mi Remote
-0.0.0.0 i2-urc.io.mi.com
-0.0.0.0 sdk.irdatabase.com 
+
+
 
 # Big G
 0.0.0.0 googleads.g.doubleclick.net
