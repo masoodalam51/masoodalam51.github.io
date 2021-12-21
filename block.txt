@@ -2,6 +2,7 @@
 #  Syntax: dbl       
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/block.txt
+#  For Wildcard check - https://masoodalam51.github.io/wildcard.txt
 
 # Brave
 0.0.0.0 laptop-updates.brave.com
