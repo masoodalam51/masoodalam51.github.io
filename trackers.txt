@@ -59,15 +59,6 @@ https://adaway.org/hosts.txt # Hosts Files
 PiHole Porn Black Lists
 https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list 
 
-AdGaurd DNS Filter
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-
-Tiuxo
-https://raw.githubusercontent.com/tiuxo/hosts/master/ads # Hosts Files
-
-AdWars
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts # Hosts Files
-
 1Hosts (Lite)
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt # Hosts Files
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
@@ -75,13 +66,6 @@ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 No Tracking
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt # Hosts Files
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
-
-Anti POP Ads
-https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts # Hosts Files
-https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
-
-Perflyst Android PiHoleBlocklist
-https://perflyst.github.io/PiHoleBlocklist/android-tracking.txt
 
 ## Allow Lists URL
 ## https://masoodalam51.github.io/allow-list.txt
