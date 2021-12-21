@@ -97,3 +97,4 @@ cdn.ndtv.com
 @@||media-exp1.licdn.com^$important
 @@||irdatabase.com^$important
 @@||i2-urc.io.mi.com^$important
+@@||nextdns.io^$important # DNS Level Ads Blocking Service
