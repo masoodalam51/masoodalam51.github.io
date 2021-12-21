@@ -2,6 +2,8 @@
 #  Syntax: dbl       
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/wps.txt
+#  For Wildcard check - https://masoodalam51.github.io/wildcard.txt
+
 
 0.0.0.0 plugin-server.wps.com
 0.0.0.0 cloud.wpscdn.com
@@ -23,10 +25,3 @@
 0.0.0.0 event.ksosoft.com
 0.0.0.0 dw-online.ksosoft.com
 0.0.0.0 event.wps.com
-
-# WPS WildCard
-|wps.com^
-|wpscdn.com^
-|kingsoft-office-service.com^
-|wpsmail.net^
-|kosoft.com^
