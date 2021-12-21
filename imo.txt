@@ -2,6 +2,7 @@
 #  Syntax: dbl       
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/imo.txt
+#  For Wildcard check - https://masoodalam51.github.io/wildcard.txt
 
 0.0.0.0 api.imotech.tech
 0.0.0.0 conf.piojm.tech
@@ -64,44 +65,3 @@
 0.0.0.0 cloud-citadel-assets-verizon-clsprd-eun.azureedge.net
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 t.appsflyer.com
-
-#WildCard
-||pubmatic.com^
-||imolive2.com^
-||imotech.tech^
-||piojm.tech^
-||imoim.app^
-||pangle.io^
-||masala.sh^
-||imo.im^
-||kzhi.tech^
-||chimukappa.com^
-||bigo.sg^
-||ibytedtos.com^
-||likeevideo.com^
-||byteoversea.com^
-||bigolive.tv^
-||imolive.xyz^
-||singbox.sg^
-||news-img.tech^
-||liketech.tech^
-||i18n-pglstatp.com^
-||imolive.tv^
-||dfaklj.tech^
-||owxd.xyz^
-||imostatic.com^
-||likee.video^
-||like.video^
-||imoconf1.azureedge.net^
-||imoconfpull1.azureedge.net^
-||imoconfpull2.azureedge.net^
-||bglvconf1.azureedge.net^
-||bglvconfpull1.azureedge.net^
-||bglvconfpull2.azureedge.net^
-||bglvconf3.azureedge.net^
-||bglvconf3.ec.azureedge.net^
-||like-video.com^
-||imoim.net^
-||appsflyer.com^
-||d1p8w5h30icryu.cloudfront.net^
-||cloud-citadel-assets-verizon-clsprd-eun.azureedge.net^
