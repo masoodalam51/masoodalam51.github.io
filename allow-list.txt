@@ -95,3 +95,5 @@ cdn.ndtv.com
 @@||platform.linkedin.com^$important
 @@||static-exp2.licdn.com^$important
 @@||media-exp1.licdn.com^$important
+@@||irdatabase.com^$important
+@@||i2-urc.io.mi.com^$important
