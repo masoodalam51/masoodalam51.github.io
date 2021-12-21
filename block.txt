@@ -10,7 +10,6 @@
 0.0.0.0 p3a.brave.com
 0.0.0.0 brave-core-ext.s3.brave.com
 # Brave WildCard
-||brave.com^
 
 # MX Player
 0.0.0.0 i.mxplayer.j2inter.com
@@ -23,12 +22,6 @@
 0.0.0.0 mxase.clmbtech.com
 0.0.0.0 ade.clmbtech.com 
 # MX Player WildCard
-||j2inter.com^
-||zenmxapps.com^
-||mxplay.com^
-||llnwi.net^
-||clmbtech.com^ 
-||=^
 
 #MiUi
 0.0.0.0 tracking.miui.com
@@ -95,15 +88,13 @@
 0.0.0.0 api.sms.intl.miui.com
 0.0.0.0 api.micloud.xiaomi.net
 
-
 # Mi Remote
 0.0.0.0 i2-urc.io.mi.com
 0.0.0.0 sdk.irdatabase.com 
-
 
 # Big G
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adservice.google.com 
-www.googleadservices.com
+0.0.0.0 www.googleadservices.com
