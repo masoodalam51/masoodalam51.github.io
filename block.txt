@@ -88,8 +88,7 @@
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 api.sms.intl.miui.com
 0.0.0.0 api.micloud.xiaomi.net
-
-
+0.0.0.0 resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com
 
 
 # Big G
@@ -100,4 +99,3 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
-
