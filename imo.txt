@@ -66,3 +66,8 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 d1k9ni87e5qmmy.cloudfront.net
 0.0.0.0 cx.atdmt.com
+0.0.0.0 tnc16-useast1a.byteoversea.com
+0.0.0.0 tnc16-useast1a.isnssdk.com
+0.0.0.0 tnc16-alisg.byteoversea.com
+0.0.0.0 tnc16-alisg.isnssdk.com
+
