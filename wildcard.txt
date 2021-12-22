@@ -40,12 +40,12 @@
 ||doubleclick.net^
 ||adservice.google.com^
 ||googleadservices.com^
-
+||googlesyndication.com^
 
 
 ###  Source: https://masoodalam51.github.io/imo.txt  ###
 
-#WildCard
+# WildCard
 ||pubmatic.com^
 ||imolive2.com^
 ||imotech.tech^
@@ -101,8 +101,10 @@
 ||aws.userlogsanalytics.com^
 ||foxpush.com^
 ||pizzaseo.com^
-||._tcp.com^
-||._tcp.dvois.com^
+||._tcp.com^ # For Torrent
+||._tcp.dvois.com^ # For Torrent
+||ad.a-ads.com^ # From MoviezAddiction
+||iclickcdn.com^ # From MoviezAddiction
 
 
 
