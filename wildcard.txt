@@ -101,6 +101,8 @@
 ||aws.userlogsanalytics.com^
 ||foxpush.com^
 ||pizzaseo.com^
+||._tcp.com^
+||._tcp.dvois.com^
 
 
 
