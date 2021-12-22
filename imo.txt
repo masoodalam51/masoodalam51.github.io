@@ -70,4 +70,4 @@
 0.0.0.0 tnc16-useast1a.isnssdk.com
 0.0.0.0 tnc16-alisg.byteoversea.com
 0.0.0.0 tnc16-alisg.isnssdk.com
-
+0.0.0.0 d2ck8zwoe1r05s.cloudfront.net
