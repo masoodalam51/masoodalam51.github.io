@@ -45,6 +45,9 @@
 0.0.0.0 c-api-bit.shopeemobile.com
 0.0.0.0 mall.shopee.in
 0.0.0.0 pizzaseo.com
+0.0.0.0 ad.a-ads.com # From MoviezAddiction
+0.0.0.0 iclickcdn.com # From MoviezAddiction
+
 
 # SwiftKey Blocking
 0.0.0.0 snippetdata.api.swiftkey.com
