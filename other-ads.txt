@@ -91,3 +91,8 @@
 0.0.0.0 _bittorrent-tracker._tcp.197.184.dvois.com
 0.0.0.0 _bittorrent-tracker._tcp.48.197.184.dvois.com
 0.0.0.0 _bittorrent-tracker._tcp.182.48.197.184.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.204.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.197.204.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.48.197.204.dvois.com
+0.0.0.0 _bittorrent-tracker._tcp.182.48.197.204.dvois.com
+
