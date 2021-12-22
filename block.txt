@@ -98,3 +98,6 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adservice.google.com 
 0.0.0.0 www.googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+
