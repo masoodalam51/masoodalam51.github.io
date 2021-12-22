@@ -27,7 +27,6 @@
 0.0.0.0 dm16-alisg.byteoversea.com
 0.0.0.0 socks.live.bigo.sg
 0.0.0.0 fgw.imoim.app
-0.0.0.0 medialbs.imolive2.com
 0.0.0.0 https-api.bigolive.tv
 0.0.0.0 bglvconfpull1.azureedge.net
 0.0.0.0 imoconfpull1.azureedge.net
@@ -65,3 +64,5 @@
 0.0.0.0 cloud-citadel-assets-verizon-clsprd-eun.azureedge.net
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 d1k9ni87e5qmmy.cloudfront.net
+0.0.0.0 cx.atdmt.com
