@@ -72,3 +72,4 @@
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 d2ck8zwoe1r05s.cloudfront.net
 0.0.0.0 rcc.piojm.tech
+0.0.0.0 piojm.tech
