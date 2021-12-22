@@ -134,3 +134,6 @@
 ||kingsoft-office-service.com^
 ||wpsmail.net^
 ||kosoft.com^
+
+### From Download and Juk Sites ###
+||wholenicenews.com^
