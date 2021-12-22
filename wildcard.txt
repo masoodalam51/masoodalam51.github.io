@@ -85,9 +85,11 @@
 ||appsflyer.com^
 ||d1p8w5h30icryu.cloudfront.net^
 ||cloud-citadel-assets-verizon-clsprd-eun.azureedge.net^
+||d2ck8zwoe1r05s.cloudfront.net^
 ||d1k9ni87e5qmmy.cloudfront.net^
 ||cx.atdmt.com^
 ||isnssdk.com^
+
 
 
 
