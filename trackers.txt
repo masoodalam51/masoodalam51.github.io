@@ -37,9 +37,9 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1
 WindowsSpyBlocker - Hosts spy rules
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt # Hosts Files
 
-Oisd
-https://hosts.oisd.nl/ # Hosts Files
-https://abp.oisd.nl/
+
+
+
 
 StevenBlack Hosts Blocking
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts # Hosts Files
@@ -50,8 +50,8 @@ https://hosts.anudeep.me/mirror/adservers.txt # Hosts Files
 Exodus Privacy
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 
-Developer Dan Ads
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt # Hosts Files
+
+
 
 Dan Pollock
 https://blokada.org/mirror/v5/danpollock/standard/hosts.txt # Hosts Files
