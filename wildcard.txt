@@ -148,7 +148,9 @@
 
 ### From Download and Juk Sites ###
 ||wholenicenews.com^
-||ad.a-ads.com^ # From MoviezAddiction
-||iclickcdn.com^ # From MoviezAddiction
+## From MoviezAddiction
+||ad.a-ads.com^ 
+||iclickcdn.com^ 
+||geosrdehob.top^
 ## Temp
 ||clqbejivodg.top^
