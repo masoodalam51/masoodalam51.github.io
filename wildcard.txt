@@ -106,10 +106,9 @@
 ||aws.userlogsanalytics.com^
 ||foxpush.com^
 ||pizzaseo.com^
-||._tcp.com^ # For Torrent
-||._tcp.dvois.com^ # For Torrent
-||ad.a-ads.com^ # From MoviezAddiction
-||iclickcdn.com^ # From MoviezAddiction
+||_tcp.com^
+||dvois.com^
+||_tcp.dvois.com^
 
 
 
@@ -142,3 +141,5 @@
 
 ### From Download and Juk Sites ###
 ||wholenicenews.com^
+||ad.a-ads.com^ # From MoviezAddiction
+||iclickcdn.com^ # From MoviezAddiction
