@@ -73,3 +73,6 @@
 0.0.0.0 d2ck8zwoe1r05s.cloudfront.net
 0.0.0.0 rcc.piojm.tech
 0.0.0.0 piojm.tech
+0.0.0.0 d27xxe7juh1us6.cloudfront.net
+0.0.0.0 d1k9ni87e5qmmy.cloudfront.net
+0.0.0.0 d2ck8zwoe1r05s.cloudfront.net
