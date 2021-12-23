@@ -152,5 +152,6 @@
 ||ad.a-ads.com^ 
 ||iclickcdn.com^ 
 ||geosrdehob.top^
+||hidelen.com^
 ## Temp
 ||clqbejivodg.top^
