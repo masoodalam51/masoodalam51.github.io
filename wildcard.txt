@@ -21,7 +21,7 @@
 # MI Xiaomi
 ||miui.com^
 ||mi.com^
-||xiaomi.com^l
+||xiaomi.com^
 ||mi-img.com^
 ||xiaomi.net^
 ||mipay.com^
