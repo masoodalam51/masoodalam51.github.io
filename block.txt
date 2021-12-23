@@ -10,7 +10,9 @@
 0.0.0.0 variations.brave.com
 0.0.0.0 p3a.brave.com
 0.0.0.0 brave-core-ext.s3.brave.com
-# Brave WildCard
+
+# Nokia
+0.0.0.0 dms-no-ww.hmdglobal.net
 
 # MX Player
 0.0.0.0 i.mxplayer.j2inter.com
