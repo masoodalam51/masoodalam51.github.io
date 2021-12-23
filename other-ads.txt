@@ -77,4 +77,6 @@
 0.0.0.0 I-64.b-46096.ut.bench.utorrent.com
 0.0.0.0 i-64.b-46096.ut.bench.utorrent.com
 0.0.0.0 i-139.b-46096.ut.bench.utorrent.com
+ # Ne
 0.0.0.0 i-71.b-46096.ut.bench.utorrent.com
+0.0.0.0 i-65.b-4186.btw.bench.utorrent.com
