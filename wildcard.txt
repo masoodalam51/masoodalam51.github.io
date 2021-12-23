@@ -10,6 +10,9 @@
 # Brave
 ||brave.com^
 
+# Nokia
+||dms-no-ww.hmdglobal.net^
+
 # MX Player
 ||j2inter.com^
 ||zenmxapps.com^
@@ -89,6 +92,10 @@
 ||d1k9ni87e5qmmy.cloudfront.net^
 ||cx.atdmt.com^
 ||isnssdk.com^
+||d27xxe7juh1us6.cloudfront.net^
+||d1k9ni87e5qmmy.cloudfront.net^
+||d2ck8zwoe1r05s.cloudfront.net^
+
 
 
 
