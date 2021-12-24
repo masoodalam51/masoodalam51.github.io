@@ -118,7 +118,8 @@
 ||_tcp.dvois.com^
 ||snapcleanerapp.com^
 ||ad-snaptube.app^
-
+||push.snaptube.app^
+||analytics.snaptube.app^
 
 ###  Source: https://masoodalam51.github.io/realme.txt  ###
 
