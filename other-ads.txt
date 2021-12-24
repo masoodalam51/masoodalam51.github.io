@@ -54,6 +54,16 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 bibo.api.swiftkey.com
 
+# SnapTube
+0.0.0.0 snapcleanerapp.com
+0.0.0.0 ad-snaptube.app
+0.0.0.0 apps.ad-snaptube.app
+0.0.0.0 config.ad-snaptube.app
+0.0.0.0 api.snapcleanerapp.com
+0.0.0.0 www.snaptubeapp.com
+0.0.0.0 analytics.snaptube.app
+0.0.0.0 push.snaptube.app
+
 # Torrent Tracker
 
 0.0.0.0 video.trontv.com
