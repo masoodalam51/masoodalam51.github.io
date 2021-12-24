@@ -32,6 +32,8 @@ https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAd
 
 WindowsSpyBlocker - Hosts spy rules
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt # Hosts Files
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt # Hosts Files
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt # Hosts Files
 
 StevenBlack Hosts Blocking
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts # Hosts Files
