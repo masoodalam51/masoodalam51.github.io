@@ -47,6 +47,7 @@ static-exp2.licdn.com
 media-exp1.licdn.com
 i2-urc.io.mi.com
 sdk.irdatabase.com
+api.bufferapp.com # Buffer Apps
 
 # Facebook
 graph.facebook.com # needed for facebook groups
@@ -97,6 +98,7 @@ cdn.ndtv.com
 @@||media-exp1.licdn.com^$important
 @@||irdatabase.com^$important
 @@||i2-urc.io.mi.com^$important
+@@||api.bufferapp.com$important  # Buffer Apps
 @@||nextdns.io^$important
 @@||dns.nextdns.io^$important
 @@||masoodalam51-723aed.dns.nextdns.io^$important
