@@ -60,7 +60,7 @@
 0.0.0.0 static-act.like-video.com
 0.0.0.0 static-web.imoim.net
 # New Entries
-0.0.0.0 wpc.v0cdn.net
+
 0.0.0.0 cloud-citadel-assets-verizon-clsprd-eun.azureedge.net
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 t.appsflyer.com
