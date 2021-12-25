@@ -21,9 +21,8 @@
 0.0.0.0 cdn.pushmart.net
 0.0.0.0 110n-num-in.connectingmobile.com
 0.0.0.0 gdl.news-cdn.site
-0.0.0.0 phone.sports.tile.appex.bing.com
+# 0.0.0.0 phone.sports.tile.appex.bing.com
 0.0.0.0 110-n.in.teddymobile.cn
-0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 adconfig.wynk.in
 0.0.0.0 hurypswrkjd.top
 0.0.0.0 lfghub-anonymous.xboxlive.com
