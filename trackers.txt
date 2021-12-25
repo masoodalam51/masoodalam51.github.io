@@ -44,12 +44,15 @@ https://hosts.anudeep.me/mirror/adservers.txt # Hosts Files
 Exodus Privacy
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 
-PiHole Porn Black Lists
-https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list 
-
 1Hosts (Lite)
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt # Hosts Files
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+
+Energized Protection
+https://block.energized.pro/basic/formats/hosts.txt # Hosts Files
+https://block.energized.pro/basic/formats/filter
+https://block.energized.pro/porn/formats/hosts.txt # Hosts Files
+https://block.energized.pro/porn/formats/filter
 
 ## Allow Lists URL
 ## https://masoodalam51.github.io/allow-list.txt
