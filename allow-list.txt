@@ -101,4 +101,4 @@ cdn.ndtv.com
 @@||api.bufferapp.com$important  # Buffer Apps
 @@||nextdns.io^$important
 @@||dns.nextdns.io^$important
-@@||masoodalam51-723aed.dns.nextdns.io^$important
+
