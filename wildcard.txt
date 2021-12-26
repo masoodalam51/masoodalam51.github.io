@@ -6,9 +6,6 @@
 
 ###  Source: https://masoodalam51.github.io/block.txt  ###
 
-# Brave
-||brave.com^
-
 # Nokia
 ||dms-no-ww.hmdglobal.net^
 
