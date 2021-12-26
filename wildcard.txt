@@ -1,5 +1,4 @@
-#  Maintainer: masoodalam51
-#  Wildcard Domain Blocking for My Own Lists
+#  Title: Wildcard Domain Blocking for My Own Lists
 #  Maintainer: masoodalam51
 #  Homepage: https://masoodalam51.github.io/wildcard.txt
 
