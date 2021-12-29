@@ -71,6 +71,11 @@
 ||imostatic.com^
 ||likee.video^
 ||like.video^
+||like-video.com^
+||imoim.net^
+||appsflyer.com^
+||cx.atdmt.com^
+||isnssdk.com^
 ||imoconf1.azureedge.net^
 ||imoconfpull1.azureedge.net^
 ||imoconfpull2.azureedge.net^
@@ -79,11 +84,6 @@
 ||bglvconfpull2.azureedge.net^
 ||bglvconf3.azureedge.net^
 ||bglvconf3.ec.azureedge.net^
-||like-video.com^
-||imoim.net^
-||appsflyer.com^
-||cx.atdmt.com^
-||isnssdk.com^
 
 
 
