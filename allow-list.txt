@@ -47,14 +47,14 @@ static-exp2.licdn.com
 media-exp1.licdn.com
 i2-urc.io.mi.com
 sdk.irdatabase.com
-api.bufferapp.com # Buffer Apps
+api.bufferapp.com
 
 # Facebook
-graph.facebook.com # needed for facebook groups
-b-graph.facebook.com # needed for facebook pages manager
-b-api.facebook.com # required for Facebook Messenger login on mobile
-mqtt-mini.facebook.com # required for Facebook Lite Messenger login on mobile
-edge-mqtt.facebook.com # needed for facebook groups
+graph.facebook.com 
+b-graph.facebook.com
+b-api.facebook.com
+mqtt-mini.facebook.com
+edge-mqtt.facebook.com
 
 # News Sites
 fdn.gsmarena.com
