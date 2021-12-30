@@ -56,5 +56,5 @@ https://block.energized.pro/porn/formats/filter
 Adaway
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt # Hosts Files
 
-## Allow Lists URL
+## Masood Allow Lists(Github)
 ## https://masoodalam51.github.io/allow-list.txt
