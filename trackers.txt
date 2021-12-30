@@ -43,15 +43,18 @@ https://hosts.anudeep.me/mirror/adservers.txt # Hosts Files
 Exodus Privacy
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 
-1Hosts (Lite)
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt # Hosts Files
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+1Hosts (Pro)
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt # Hosts Files
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 
 Energized Protection
-https://block.energized.pro/basic/formats/hosts.txt # Hosts Files
-https://block.energized.pro/basic/formats/filter
+https://block.energized.pro/ultimate/formats/hosts.txt # Hosts Files
+https://block.energized.pro/ultimate/formats/filter
 https://block.energized.pro/porn/formats/hosts.txt # Hosts Files
 https://block.energized.pro/porn/formats/filter
+
+Adaway
+https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt # Hosts Files
 
 ## Allow Lists URL
 ## https://masoodalam51.github.io/allow-list.txt
