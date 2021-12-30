@@ -18,22 +18,22 @@
 ||=^
 
 # MI Xiaomi
-||miui.com^
-||mi.com^
-||xiaomi.com^
-||mi-img.com^
-||xiaomi.net^
-||mipay.com^
-||idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com^
-||idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com^
-||idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com^
-||idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com^
-||idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com^
-||idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com^
-||idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com^
-||idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com^
-||idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com^
-||resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com^
+### ||miui.com^
+### ||mi.com^
+### ||xiaomi.com^
+### ||mi-img.com^
+### ||xiaomi.net^
+### ||mipay.com^
+### ||idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com^
+### ||idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com^
+### ||idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com^
+### ||idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com^
+### ||idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com^
+### ||idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com^
+### ||idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com^
+### ||idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com^
+### ||idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com^
+### ||resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com^
 
 # Big G
 ||doubleclick.net^
@@ -87,42 +87,20 @@
 
 
 
-###  Homepage: https://masoodalam51.github.io/other-ads.txt  ###
-
-# Wildcard
-||shopee.in^
-||shopeemobile.com^
-||hurypswrkjd.top^
-||test.com^
-||adcolony.com^
-||lookaside.facebook.com^
-||sessions.bugsnag.com^
-||aws.userlogsanalytics.com^
-||foxpush.com^
-||pizzaseo.com^
-||_tcp.com^
-||dvois.com^
-||_tcp.dvois.com^
-||snapcleanerapp.com^
-||ad-snaptube.app^
-||push.snaptube.app^
-||analytics.snaptube.app^
-
 ###  Source: https://masoodalam51.github.io/realme.txt  ###
 
 # WildCard
-||heytapmobile.com^
-||oppomobile.com^
-||realmemobile.com^
-||heytapdownload.com^
-||coloros.com^
-||nearme.com.cn^
-||heytapdl.com^
-||allawnos.com^
-||publicvibe.com^
-||heytapimg.com^
-||heytapmobi.com^
-||teddymobile.cn^
+### ||heytapmobile.com^
+### ||oppomobile.com^
+### ||realmemobile.com^
+### ||heytapdownload.com^
+### ||coloros.com^
+### ||nearme.com.cn^
+### ||heytapdl.com^
+### ||allawnos.com^
+### ||publicvibe.com^
+### ||heytapimg.com^
+### ||heytapmobi.com^
 
 
 
@@ -135,11 +113,34 @@
 ||wpsmail.net^
 ||kosoft.com^
 
+
+
+###  Homepage: https://masoodalam51.github.io/other-ads.txt  ###
+
+# Wildcard
+||shopee.in^
+||shopeemobile.com^
+||adcolony.com^
+||teddymobile.cn^
+||lookaside.facebook.com^
+||sessions.bugsnag.com^
+||aws.userlogsanalytics.com^
+||foxpush.com^
+||snapcleanerapp.com^
+||ad-snaptube.app^
+||push.snaptube.app^
+||analytics.snaptube.app^
+
+# DDOS
+||test.com^
+||pizzaseo.com^
+
 ### From Download and Juk Sites ###
 ||wholenicenews.com^
 ## From MoviezAddiction
 ||ad.a-ads.com^ 
 ||iclickcdn.com^ 
+||hurypswrkjd.top^
 ||geosrdehob.top^
 ||hidelen.com^
 ||geosrdehob.top^
