@@ -51,6 +51,7 @@ b-graph.facebook.com
 b-api.facebook.com
 mqtt-mini.facebook.com
 edge-mqtt.facebook.com
+graph.instagram.com
 
 # News Sites
 fdn.gsmarena.com
