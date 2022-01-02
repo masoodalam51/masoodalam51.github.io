@@ -57,6 +57,10 @@
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 push.snaptube.app
 
+# 360App
+0.0.0.0 360safe.com
+0.0.0.0 360.cn
+
 # Torrent Tracker
 0.0.0.0 video.trontv.com
 0.0.0.0 utclient.utorrent.com
