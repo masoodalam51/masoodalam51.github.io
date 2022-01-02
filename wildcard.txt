@@ -131,6 +131,10 @@
 ||push.snaptube.app^
 ||analytics.snaptube.app^
 
+# 360App
+||360safe.com^
+||360.cn^
+
 # DDOS
 ||test.com^
 ||pizzaseo.com^
