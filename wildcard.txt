@@ -142,6 +142,7 @@
 # DDOS
 ||test.com^
 ||pizzaseo.com^
+||rediroff.ru^
 
 ### From Download and Juk Sites ###
 ||wholenicenews.com^
@@ -161,5 +162,11 @@
 ||hyuhsfbauyw.top^
 ||usounoul.com^
 ||joaqblivblobd.top^
+||rgmcsjcs.top^
+||mqkcscbr.top^
+||iuwflwxfkrwvpo.top^
+||knvjntiqtnbxtj.top^
+||aobpkgeiku.top^
+||fipnrgobtr.top^
 ## Temp
 ||clqbejivodg.top^
