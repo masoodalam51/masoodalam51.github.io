@@ -53,6 +53,9 @@ mqtt-mini.facebook.com
 edge-mqtt.facebook.com
 graph.instagram.com
 
+# Pinterest 
+api.pinterest.com
+
 # News Sites
 fdn.gsmarena.com
 fdn2.gsmarena.com
@@ -97,3 +100,4 @@ cdn.ndtv.com
 @@||api.bufferapp.com$important
 @@||nextdns.io^$important
 @@||dns.nextdns.io^$important
+@@||api.pinterest.com^$important
