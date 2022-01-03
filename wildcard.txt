@@ -131,6 +131,10 @@
 ||push.snaptube.app^
 ||analytics.snaptube.app^
 
+# Premium Tuber
+||l.premiumtuber.com^
+||api.premiumtuber.com^
+
 # 360App
 ||360safe.com^
 ||360.cn^
