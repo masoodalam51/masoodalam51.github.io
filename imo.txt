@@ -78,3 +78,4 @@
 # 0.0.0.0 d2l10bfn7m6ac1.cloudfront.net
 # 0.0.0.0 d14s8o6z8ft95a.cloudfront.net
 # 0.0.0.0 d3vffc4a5h50be.cloudfront.net
+# 0.0.0.0 d1xe9dha4pyf2x.cloudfront.net
