@@ -81,6 +81,7 @@
 ### DDOS
 0.0.0.0 test.com
 0.0.0.0 pizzaseo.com
+0.0.0.0 rediroff.ru
 
 # From MoviezAddiction And Other Junk Sites
 0.0.0.0 ad.a-ads.com 
@@ -100,3 +101,9 @@
 0.0.0.0 joaqblivblobd.top
 0.0.0.0 clqbejivodg.top
 0.0.0.0 wholenicenews.com
+0.0.0.0 rgmcsjcs.top
+0.0.0.0 mqkcscbr.top
+0.0.0.0 iuwflwxfkrwvpo.top
+0.0.0.0 knvjntiqtnbxtj.top
+0.0.0.0 aobpkgeiku.top
+0.0.0.0 fipnrgobtr.top
