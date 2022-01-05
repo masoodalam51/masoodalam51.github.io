@@ -1,3 +1,5 @@
+#####  Blocking Lists  #####
+
 # OtherAds
 
 brave.com
@@ -77,3 +79,24 @@ j2inter.com
 # Nokia
 
 dms-no-ww.hmdglobal.net
+
+
+######  Allow Lists  ######
+
+shareasale.com
+www.shareasale.com
+s.w.org
+w.org
+wordpress.org
+abs.twimg.com
+pbs.twimg.com
+pahe.ph
+i2-urc.io.mi.com
+api.bufferapp.com
+api.pinterest.com
+graph.instagram.com
+edge-mqtt.facebook.com
+mqtt-mini.facebook.com
+b-api.facebook.com
+b-graph.facebook.com
+graph.facebook.com
