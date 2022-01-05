@@ -83,6 +83,7 @@ dms-no-ww.hmdglobal.net
 
 ######  Allow Lists  ######
 
+yt3.ggpht.com
 shareasale.com
 www.shareasale.com
 s.w.org
