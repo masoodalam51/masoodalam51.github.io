@@ -24,6 +24,16 @@ kingsoft-office-service.com
 wpscdn.com
 wps.com
 
+
+# BigG
+googlesyndication.com
+www.googleadservices.com
+adservice.google.com
+ad.doubleclick.net
+static.doubleclick.net
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+
 # imo Ads
 
 bglvconf3.ec.azureedge.net
