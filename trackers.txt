@@ -56,7 +56,7 @@ https://block.energized.pro/porn/formats/filter
 Adaway
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt # Hosts Files
 
-AdGaurd DNS Files Modified by masoodalam51
+AdGaurd DNS Files Modified by masoodalam51 at 9:05pm 6/01/2022
 https://raw.githubusercontent.com/masoodalam51/masoodalam51.github.io/master/AdGuard-Simplified-Domain-Names-Filter.txt
 
 ## Masood Allow Lists(Github)
