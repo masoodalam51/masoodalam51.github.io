@@ -6,14 +6,12 @@ brave.com
 aws.userlogsanalytics.com
 sessions.bugsnag.com
 lookaside.facebook.com
-analytics.snaptube.app
-push.snaptube.app
+snaptube.app
 ad-snaptube.app
 snapcleanerapp.com
 360.cn
 360safe.com
-api.premiumtuber.com
-l.premiumtuber.com
+premiumtuber.com
 
 
 # WPS Office
