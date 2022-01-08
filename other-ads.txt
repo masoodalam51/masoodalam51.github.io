@@ -58,6 +58,7 @@
 0.0.0.0 push.snaptube.app
 
 # Premium Tuber
+0.0.0.0. premiumtuber.com
 0.0.0.0. l.premiumtuber.com
 0.0.0.0. api.premiumtuber.com
 
