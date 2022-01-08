@@ -143,6 +143,9 @@
 ||360safe.com^
 ||360.cn^
 
+# Qualcomm 
+||*.izatcloud.net^
+
 # DDOS
 ||test.com^
 ||pizzaseo.com^
