@@ -137,7 +137,7 @@
 
 # Premium Tuber
 ||premiumtuber.com^
-14
+
 
 # 360App
 ||360safe.com^
