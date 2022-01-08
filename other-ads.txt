@@ -61,6 +61,10 @@
 0.0.0.0. l.premiumtuber.com
 0.0.0.0. api.premiumtuber.com
 
+# Qualcomm 
+0.0.0.0 xtrapath1.izatcloud.net
+0.0.0.0 xtrapath2.izatcloud.net
+0.0.0.0 xtrapath3.izatcloud.net
 
 # 360App
 0.0.0.0 360safe.com
