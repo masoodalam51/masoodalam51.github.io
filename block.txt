@@ -26,6 +26,10 @@
 0.0.0.0 ade.clmbtech.com 
 
 #MiUi
+0.0.0.0 api.account.xiaomi.com
+0.0.0.0 api.zhuti.intl.xiaomi.com
+0.0.0.0 global.market.xiaomi.com
+0.0.0.0 connect.rom.miui.com
 ### 0.0.0.0 tracking.miui.com
 ### 0.0.0.0 i2.api.io.mi.com
 ### 0.0.0.0 sdkconfig.ad.xiaomi.com
