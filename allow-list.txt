@@ -90,14 +90,12 @@ cdn.ndtv.com
 @@||raw.githubusercontent.com^$important
 @@||blokada.org^$important
 @@||click.redditmail.com^$important
-@@||fdn.gsmarena.com^$important
-@@||fdn2.gsmarena.com^$important
-@@||pahe.ph^$important
+@@||fdn*.gsmarena.com^$important
+@@||pahe.*^$important
 @@||platform.linkedin.com^$important
 @@||static-exp2.licdn.com^$important
 @@||media-exp1.licdn.com^$important
 @@||i2-urc.io.mi.com^$important
 @@||api.bufferapp.com$important
-@@||nextdns.io^$important
-@@||dns.nextdns.io^$important
+@@||*.nextdns.io^$important
 @@||api.pinterest.com^$important
