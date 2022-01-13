@@ -69,6 +69,11 @@
 0.0.0.0 piojm.tech
 0.0.0.0 aws.userlogsanalytics.com
 0.0.0.0 bglvconf2.azureedge.net
+0.0.0.0 d1p8w5h30icryu.cloudfront.net
+0.0.0.0 d35h7ub5u34xbi.cloudfront.net
+0.0.0.0 d1eqa2nfr51qez.cloudfront.net
+0.0.0.0 d3vffc4a5h50be.cloudfront.net
+0.0.0.0 d1xe9dha4pyf2x.cloudfront.net
 # 0.0.0.0 d1p8w5h30icryu.cloudfront.net
 # 0.0.0.0 d1k9ni87e5qmmy.cloudfront.net
 # 0.0.0.0 d2ck8zwoe1r05s.cloudfront.net
