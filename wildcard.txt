@@ -89,6 +89,12 @@
 ||bglvconfpull2.azureedge.net^
 ||bglvconf3.azureedge.net^
 ||bglvconf3.ec.azureedge.net^
+||d1p8w5h30icryu.cloudfront.net^
+||d35h7ub5u34xbi.cloudfront.net^
+||d1eqa2nfr51qez.cloudfront.net^
+||d3vffc4a5h50be.cloudfront.net^
+||d1xe9dha4pyf2x.cloudfront.net^
+
 
 
 
