@@ -87,6 +87,7 @@
 0.0.0.0 test.com
 0.0.0.0 pizzaseo.com
 0.0.0.0 rediroff.ru
+0.0.0.0 priceline.com
 
 # From MoviezAddiction And Other Junk Sites
 0.0.0.0 ad.a-ads.com 
