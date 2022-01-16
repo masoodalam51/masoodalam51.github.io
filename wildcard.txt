@@ -157,6 +157,8 @@
 ||test.com^
 ||pizzaseo.com^
 ||rediroff.ru^
+||priceline.com^
+
 
 ### From Download and Juk Sites ###
 ||wholenicenews.com^
