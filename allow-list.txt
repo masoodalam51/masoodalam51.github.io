@@ -44,6 +44,7 @@ static-exp2.licdn.com
 media-exp1.licdn.com
 i2-urc.io.mi.com
 api.bufferapp.com
+trk.klclick3.com
 
 # Facebook
 graph.facebook.com 
@@ -69,9 +70,9 @@ cdn.ndtv.com
 @@||github.io^$important
 @@||tapfiliate.com^$important
 @@||w.org^$important
-@@||bloggyaani.com^$important
-@@||geekyvision.com^$important
-@@||techelex.com^$important
+## @@||bloggyaani.com^$important
+## @@||geekyvision.com^$important
+## @@||techelex.com^$important
 @@||static-assets-web.flixcart.com^$important
 @@||css.gbtcdn.com
 @@||twimg.com^$important
@@ -80,9 +81,6 @@ cdn.ndtv.com
 @@||account.shareasale.com^$important
 @@||postaffiliatepro.com^$important
 @@||yt3.ggpht.com^$important
-## @@||clients*.google.com^$important
-## @@||gvt2.com^$important
-## @@||csi.gstatic.com^$important
 @@||futurecdn.net^$important
 @@||cdn-production-opera-website.operacdn.com^$important
 @@||static-exp1.licdn.com^$important
@@ -99,3 +97,4 @@ cdn.ndtv.com
 @@||api.bufferapp.com$important
 @@||*.nextdns.io^$important
 @@||api.pinterest.com^$important
+@@||trk.klclick3.com$important
