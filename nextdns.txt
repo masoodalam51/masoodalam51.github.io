@@ -90,11 +90,17 @@ mxplay.com
 zenmxapps.com
 j2inter.com
 
+# Torrent Necessary if you running Utorrent or Bittorrent
+trontv.com
+utorrent.com
+bittorrent.com
+utorrent.li
 
 # Nokia
-
 dms-no-ww.hmdglobal.net
 
+# Qualcom Monitor
+izatcloud.net
 
 ######  Allow Lists  ######
 
