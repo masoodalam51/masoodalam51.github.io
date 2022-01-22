@@ -143,7 +143,9 @@
 ||analytics.snaptube.app^
 
 # Premium Tuber
-||premiumtuber.com^
+||l.premiumtuber.com^
+||api.remiumtuber.com^
+
 
 
 # 360App
