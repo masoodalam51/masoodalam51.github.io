@@ -52,6 +52,8 @@ b-graph.facebook.com
 b-api.facebook.com
 mqtt-mini.facebook.com
 edge-mqtt.facebook.com
+gateway.facebook.com
+portal.fb.com
 graph.instagram.com
 
 # Pinterest 
