@@ -6,7 +6,8 @@ brave.com
 aws.userlogsanalytics.com
 sessions.bugsnag.com
 lookaside.facebook.com
-snaptube.app
+push.snaptube.app
+analytics.snaptube.app
 ad-snaptube.app
 snapcleanerapp.com
 360.cn
@@ -122,3 +123,5 @@ mqtt-mini.facebook.com
 b-api.facebook.com
 b-graph.facebook.com
 graph.facebook.com
+gvt3.com
+gvt2.com
