@@ -99,4 +99,5 @@ cdn.ndtv.com
 @@||api.bufferapp.com$important
 @@||*.nextdns.io^$important
 @@||api.pinterest.com^$important
-@@||trk.klclick3.com$important
+@@||trk.klclick3.com^$important
+@@||gvt*.com^$important
