@@ -45,6 +45,9 @@ media-exp1.licdn.com
 i2-urc.io.mi.com
 api.bufferapp.com
 trk.klclick3.com
+gvt2.com
+gvt3.com
+
 
 # Facebook
 graph.facebook.com 
