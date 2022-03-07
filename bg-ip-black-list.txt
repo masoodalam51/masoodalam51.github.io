@@ -3,6 +3,8 @@
 Block Command:  sudo webinoly -blockip=
 View All Blocked IP: sudo webinoly -blockip -list -raw
 
+Check IP reputation with https://www.abuseipdb.com/check/
+
 ## Main  ##
 162.142.125.10   # Trying to hack 22222
 167.248.133.119  # Trying to hack 22222
