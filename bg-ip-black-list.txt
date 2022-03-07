@@ -1,0 +1,34 @@
+## BG Server IP Block Lists
+
+Block Command:  sudo webinoly -blockip=
+View All Blocked IP: sudo webinoly -blockip -list -raw
+
+## Main  ##
+162.142.125.10   # Trying to hack 22222
+167.248.133.119  # Trying to hack 22222
+
+## BG ##
+46.161.0.0/16    #Authority Theme Comment Spam  BG
+46.148.206.226   #Authority Theme Comment Spam BG
+94.172.122.252   # Trying to find wp-comments.php BG
+212.192.241.175  # fake bing bot  caused 404 and 403, trying to find banned files on the server BG
+207.244.98.103   # access forbidden by rule BG
+212.192.241.175  # fake bing bot caused 404 and 403, trying to find banned files on the server BG
+103.136.202.121  # Causing 403 on BG / reported spam by Abuseipdb
+195.242.103.128  # Causing 404 on BG / reported spam by Abuseipdb
+157.245.119.123  # Causing 401 on BG / reported spam by Abuseipdb
+37.221.120.175   # Causing 401 on BG / reported spam by Abuseipdb
+
+## GV ##
+165.227.22.1     # Unnecessary request ads.txt on GV
+167.99.75.252    # 403, trying to find nonexisting files GV
+194.61.28.220    # Unnecessary request ads.txt and other non exist pages on GV
+
+## TE ##
+207.244.98.103   # 403, trying to find nonexisting files and use user enumeration on TE
+20.124.103.50    # 403, trying to find nonexisting files and use user enumeration on TE / reported spam by Abuseipdb
+195.133.18.227   # 403, trying to find /wp-login.php on TE / reported spam by Abuseipdb
+20.122.42.216    # 401, trying to find /wp-admin/css/ on TE / reported spam by Abuseipdb
+
+## All IP's in one line ##
+162.142.125.10,167.248.133.119,46.161.0.0/16,46.148.206.226,94.172.122.252,212.192.241.175,207.244.98.103,212.192.241.175,103.136.202.121,195.242.103.128,157.245.119.123,37.221.120.175,165.227.22.1,167.99.75.252,194.61.28.220,207.244.98.103,20.124.103.50,195.133.18.227,20.122.42.216
