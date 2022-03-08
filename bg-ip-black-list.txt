@@ -13,7 +13,6 @@ Check IP reputation with https://www.abuseipdb.com/check/
 46.161.0.0/16    #Authority Theme Comment Spam  BG
 46.148.206.226   #Authority Theme Comment Spam BG
 94.172.122.252   # Trying to find wp-comments.php BG
-212.192.241.175  # fake bing bot  caused 404 and 403, trying to find banned files on the server BG
 207.244.98.103   # access forbidden by rule BG
 212.192.241.175  # fake bing bot caused 404 and 403, trying to find banned files on the server BG
 103.136.202.121  # Causing 403 on BG / reported spam by Abuseipdb
