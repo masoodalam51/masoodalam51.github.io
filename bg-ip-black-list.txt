@@ -24,7 +24,8 @@ Check IP reputation with https://www.abuseipdb.com/check/
 157.245.119.123  # Causing 401 on BG / reported spam by Abuseipdb
 37.221.120.175   # Causing 401 on BG / reported spam by Abuseipdb
 173.212.230.144  # Trying to access /wp-admin/css/colors/blue/  / reported spam by Abuseipdb
-194.135.33.51    # Trying to access /wp-admin/css/  / reported spam by Abuseipdb
+194.135.33.51    # Trying to access /wp-admin/css/ / reported spam by Abuseipdb
+212.192.241.204  # fake bing bot caused 404 and 403, trying to find banned files on the server BG / reported spam by Abuseipdb
 
 ## GV ##
 165.227.22.1     # Unnecessary request ads.txt on GV
