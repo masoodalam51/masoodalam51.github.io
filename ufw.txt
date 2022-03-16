@@ -1,7 +1,3 @@
-sudo ufw deny from 46.161.0.0/16 to any
-sudo ufw deny from 185.191.34.215 to any
-sudo ufw deny from 52.147.207.96 to any
-sudo ufw deny from 34.245.89.123 to any
 sudo ufw deny from 183.63.22.38 to any
 sudo ufw deny from 45.93.16.80 to any
 sudo ufw deny from 114.45.99.62 to any
