@@ -69,6 +69,14 @@
 0.0.0.0 piojm.tech
 0.0.0.0 aws.userlogsanalytics.com
 0.0.0.0 bglvconf2.azureedge.net
+0.0.0.0 impression-asia.liftoff.io
+0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 appsflyersdk.com
+0.0.0.0 launchers.appsflyer.com
+0.0.0.0 appsflyer.com
+0.0.0.0 ads.as.criteo.com
+0.0.0.0 as.criteo.com
+0.0.0.0 criteo.com
 0.0.0.0 d1p8w5h30icryu.cloudfront.net
 0.0.0.0 d35h7ub5u34xbi.cloudfront.net
 0.0.0.0 d1eqa2nfr51qez.cloudfront.net
