@@ -41,6 +41,8 @@
 0.0.0.0 df.infra.shopee.in
 0.0.0.0 c-api-bit.shopeemobile.com
 0.0.0.0 mall.shopee.in
+0.0.0.0 ingest.sentry.io
+0.0.0.0 sentry.io
 
 # SwiftKey Blocking
 0.0.0.0 snippetdata.api.swiftkey.com
