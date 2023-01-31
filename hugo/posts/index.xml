@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BLOGGYAANI</title>
+    <link>http://masoodalam51.github.io/hugo/posts/</link>
+    <description>Recent content in Posts on BLOGGYAANI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-Us</language>
+    <lastBuildDate>Sat, 28 Jan 2023 23:32:44 +0530</lastBuildDate><atom:link href="http://masoodalam51.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji Support</title>
+      <link>http://masoodalam51.github.io/hugo/emoji-support/</link>
+      <pubDate>Sat, 28 Jan 2023 23:32:44 +0530</pubDate>
+      
+      <guid>http://masoodalam51.github.io/hugo/emoji-support/</guid>
+      <description>Emoji can be enabled in a Hugo project in a number of ways.
+The emojify function can be called directly in templates or Inline Shortcodes.</description>
+    </item>
+    
+    <item>
+      <title>Moving With Hugo</title>
+      <link>http://masoodalam51.github.io/hugo/moving-with-hugo/</link>
+      <pubDate>Thu, 26 May 2022 22:25:34 +0530</pubDate>
+      
+      <guid>http://masoodalam51.github.io/hugo/moving-with-hugo/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website.</description>
+    </item>
+    
+    <item>
+      <title>A first theme for Zola</title>
+      <link>http://masoodalam51.github.io/hugo/a-first-theme-for-zola/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0530</pubDate>
+      
+      <guid>http://masoodalam51.github.io/hugo/a-first-theme-for-zola/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis. Donec vel dui neque.</description>
+    </item>
+    
+    <item>
+      <title>What is Zola</title>
+      <link>http://masoodalam51.github.io/hugo/what-is-zola/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0530</pubDate>
+      
+      <guid>http://masoodalam51.github.io/hugo/what-is-zola/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis. Donec vel dui neque.</description>
+    </item>
+    
+  </channel>
+</rss>

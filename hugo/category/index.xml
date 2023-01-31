@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on BLOGGYAANI</title>
+    <link>http://masoodalam51.github.io/hugo/category/</link>
+    <description>Recent content in Category on BLOGGYAANI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-Us</language>
+    <lastBuildDate>Sat, 28 Jan 2023 23:32:44 +0530</lastBuildDate><atom:link href="http://masoodalam51.github.io/hugo/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TECH</title>
+      <link>http://masoodalam51.github.io/hugo/category/tech/</link>
+      <pubDate>Sat, 28 Jan 2023 23:32:44 +0530</pubDate>
+      
+      <guid>http://masoodalam51.github.io/hugo/category/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress</title>
+      <link>http://masoodalam51.github.io/hugo/category/wordpress/</link>
+      <pubDate>Thu, 26 May 2022 22:25:34 +0530</pubDate>
+      
+      <guid>http://masoodalam51.github.io/hugo/category/wordpress/</guid>
+      <description>WordPress is a Great Blogging tool and here you learn how to use it for your business websites or blog. We share tips, tricks, codes, and tutorials about WordPress.</description>
+    </item>
+    
+    <item>
+      <title>Speed</title>
+      <link>http://masoodalam51.github.io/hugo/category/speed/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0530</pubDate>
+      
+      <guid>http://masoodalam51.github.io/hugo/category/speed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
