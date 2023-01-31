@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speed on BLOGGYAANI</title>
-    <link>http://masoodalam51.github.io/hugo/category/speed/</link>
+    <link>https://masoodalam51.github.io/hugo/category/speed/</link>
     <description>Recent content in Speed on BLOGGYAANI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-Us</language>
-    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0530</lastBuildDate><atom:link href="http://masoodalam51.github.io/hugo/category/speed/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0530</lastBuildDate><atom:link href="https://masoodalam51.github.io/hugo/category/speed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A first theme for Zola</title>
-      <link>http://masoodalam51.github.io/hugo/a-first-theme-for-zola/</link>
+      <link>https://masoodalam51.github.io/hugo/a-first-theme-for-zola/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0530</pubDate>
       
-      <guid>http://masoodalam51.github.io/hugo/a-first-theme-for-zola/</guid>
+      <guid>https://masoodalam51.github.io/hugo/a-first-theme-for-zola/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis. Donec vel dui neque.</description>
     </item>
     

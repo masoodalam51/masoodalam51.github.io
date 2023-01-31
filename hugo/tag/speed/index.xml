@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speed on BLOGGYAANI</title>
-    <link>http://masoodalam51.github.io/hugo/tag/speed/</link>
+    <link>https://masoodalam51.github.io/hugo/tag/speed/</link>
     <description>Recent content in Speed on BLOGGYAANI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-Us</language>
-    <lastBuildDate>Thu, 26 May 2022 22:25:34 +0530</lastBuildDate><atom:link href="http://masoodalam51.github.io/hugo/tag/speed/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 22:25:34 +0530</lastBuildDate><atom:link href="https://masoodalam51.github.io/hugo/tag/speed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moving With Hugo</title>
-      <link>http://masoodalam51.github.io/hugo/moving-with-hugo/</link>
+      <link>https://masoodalam51.github.io/hugo/moving-with-hugo/</link>
       <pubDate>Thu, 26 May 2022 22:25:34 +0530</pubDate>
       
-      <guid>http://masoodalam51.github.io/hugo/moving-with-hugo/</guid>
+      <guid>https://masoodalam51.github.io/hugo/moving-with-hugo/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website.</description>
     </item>
     
     <item>
       <title>What is Zola</title>
-      <link>http://masoodalam51.github.io/hugo/what-is-zola/</link>
+      <link>https://masoodalam51.github.io/hugo/what-is-zola/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0530</pubDate>
       
-      <guid>http://masoodalam51.github.io/hugo/what-is-zola/</guid>
+      <guid>https://masoodalam51.github.io/hugo/what-is-zola/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis. Donec vel dui neque.</description>
     </item>
     

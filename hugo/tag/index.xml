@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on BLOGGYAANI</title>
-    <link>http://masoodalam51.github.io/hugo/tag/</link>
+    <link>https://masoodalam51.github.io/hugo/tag/</link>
     <description>Recent content in Tag on BLOGGYAANI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-Us</language>
-    <lastBuildDate>Thu, 26 May 2022 22:25:34 +0530</lastBuildDate><atom:link href="http://masoodalam51.github.io/hugo/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 22:25:34 +0530</lastBuildDate><atom:link href="https://masoodalam51.github.io/hugo/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Speed</title>
-      <link>http://masoodalam51.github.io/hugo/tag/speed/</link>
+      <link>https://masoodalam51.github.io/hugo/tag/speed/</link>
       <pubDate>Thu, 26 May 2022 22:25:34 +0530</pubDate>
       
-      <guid>http://masoodalam51.github.io/hugo/tag/speed/</guid>
+      <guid>https://masoodalam51.github.io/hugo/tag/speed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WordPress</title>
-      <link>http://masoodalam51.github.io/hugo/tag/wordpress/</link>
+      <link>https://masoodalam51.github.io/hugo/tag/wordpress/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0530</pubDate>
       
-      <guid>http://masoodalam51.github.io/hugo/tag/wordpress/</guid>
+      <guid>https://masoodalam51.github.io/hugo/tag/wordpress/</guid>
       <description></description>
     </item>
     
