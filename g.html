@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Replace &nbsp with Space</title>
+  </head>
+  <body>
+    <h1>Replace &nbsp with Space</h1>
+    <p>Paste text below to replace all instances of &amp;nbsp with a space.</p>
+    <textarea id="input" rows="10" cols="50"></textarea>
+    <br>
+    <button onclick="replaceNbsp()">Replace &amp;nbsp with Space</button>
+    <script>
+      function replaceNbsp() {
+        var input = document.getElementById("input");
+        var output = input.value.replace(/&nbsp;/g, " ");
+        input.value = output;
+      }
+
+      var inputBox = document.getElementById("input");
+      inputBox.addEventListener("paste", function(e) {
+        setTimeout(replaceNbsp, 0);
+      });
+    </script>
+  </body>
+</html>
